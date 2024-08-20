@@ -1,0 +1,1297 @@
+Column1;Score;Overs;RPO;Target;Inns;Result;Opposition;Ground;Start Date;Match_ID;Country;Country_ID
+412;250;483;5.15;;1;won;v India;Kolkata;03/01/2013;ODI # 3315;Pakistan;7
+680;165;480;3.43;251;2;lost;v Pakistan;Kolkata;03/01/2013;ODI # 3315;India;6
+413;157;485;3.21;168;2;lost;v India;Delhi;06/01/2013;ODI # 3316;Pakistan;7
+681;167;434;3.82;;1;won;v Pakistan;Delhi;06/01/2013;ODI # 3316;India;6
+117;198;400;4.95;306;2;lost;v Australia;Melbourne;11/01/2013;ODI # 3317;SriLanka;8
+1076;305/5;500;6.10;;1;won;v Sri Lanka;Melbourne;11/01/2013;ODI # 3317;Australia;2
+682;316/9;500;6.32;326;2;lost;v England;Rajkot;11/01/2013;ODI # 3318;India;6
+836;325/4;500;6.50;;1;won;v India;Rajkot;11/01/2013;ODI # 3318;England;1
+118;172/2;401;4.28;171;2;won;v Australia;Adelaide;13/01/2013;ODI # 3319;SriLanka;8
+1077;170;465;3.62;;1;lost;v Sri Lanka;Adelaide;13/01/2013;ODI # 3319;Australia;2
+683;285/6;500;5.70;;1;won;v England;Kochi;15/01/2013;ODI # 3320;India;6
+837;158;360;4.38;286;2;lost;v India;Kochi;15/01/2013;ODI # 3320;England;1
+119;75/6;200;3.75;75;2;won;v Australia;Brisbane;18/01/2013;ODI # 3321;SriLanka;8
+1078;74;264;2.77;;1;lost;v Sri Lanka;Brisbane;18/01/2013;ODI # 3321;Australia;2
+684;157/3;281;5.57;156;2;won;v England;Ranchi;19/01/2013;ODI # 3322;India;6
+838;155;422;3.66;;1;lost;v India;Ranchi;19/01/2013;ODI # 3322;England;1
+277;208;462;4.48;;1;lost;v New Zealand;Paarl;19/01/2013;ODI # 3323;SouthAfrica;3
+551;209/9;454;4.57;209;2;won;v South Africa;Paarl;19/01/2013;ODI # 3323;Newzealad;5
+120;14/0;32;4.20;223;2;n/r;v Australia;Sydney;20/01/2013;ODI # 3324;SriLanka;8
+1079;222/9;500;4.44;;1;n/r;v Sri Lanka;Sydney;20/01/2013;ODI # 3324;Australia;2
+278;252;491;5.12;280;2;lost;v New Zealand;Kimberley;22/01/2013;ODI # 3325;SouthAfrica;3
+552;279/8;500;5.58;;1;won;v South Africa;Kimberley;22/01/2013;ODI # 3325;Newzealad;5
+121;215;483;4.43;248;2;lost;v Australia;Hobart;23/01/2013;ODI # 3326;SriLanka;8
+1080;247/5;500;4.94;;1;won;v Sri Lanka;Hobart;23/01/2013;ODI # 3326;Australia;2
+685;258/5;473;5.43;258;2;won;v England;Mohali;23/01/2013;ODI # 3327;India;6
+839;257/7;500;5.14;;1;lost;v India;Mohali;23/01/2013;ODI # 3327;England;1
+279;264/9;500;5.28;261;2;won;v New Zealand;Potchefstroom;25/01/2013;ODI # 3328;SouthAfrica;3
+553;260/9;500;5.20;;1;lost;v South Africa;Potchefstroom;25/01/2013;ODI # 3328;Newzealad;5
+686;226;494;4.55;;1;lost;v England;Dharamsala;27/01/2013;ODI # 3329;India;6
+840;227/3;472;4.79;227;2;won;v India;Dharamsala;27/01/2013;ODI # 3329;England;1
+1;70;235;2.93;;1;lost;v Australia;Perth;01/02/2013;ODI # 3330;WestIndies;4
+1081;71/1;92;7.60;71;2;won;v West Indies;Perth;01/02/2013;ODI # 3330;Australia;2
+2;212;381;5.55;267;2;lost;v Australia;Perth;03/02/2013;ODI # 3331;WestIndies;4
+1082;266/7;500;5.32;;1;won;v West Indies;Perth;03/02/2013;ODI # 3331;Australia;2
+3;290;473;6.10;330;2;lost;v Australia;Canberra;06/02/2013;ODI # 3332;WestIndies;4
+1083;329/7;500;6.58;;1;won;v West Indies;Canberra;06/02/2013;ODI # 3332;Australia;2
+4;220;494;4.42;;1;lost;v Australia;Sydney;08/02/2013;ODI # 3333;WestIndies;4
+1084;221/5;445;4.92;221;2;won;v West Indies;Sydney;08/02/2013;ODI # 3333;Australia;2
+5;257;495;5.15;275;2;lost;v Australia;Melbourne;10/02/2013;ODI # 3334;WestIndies;4
+1085;274/5;500;5.48;;1;won;v West Indies;Melbourne;10/02/2013;ODI # 3334;Australia;2
+554;259/7;485;5.30;259;2;won;v England;Hamilton;17/02/2013;ODI # 3335;Newzealad;5
+841;258;493;5.21;;1;lost;v New Zealand;Hamilton;17/02/2013;ODI # 3335;England;1
+555;269;485;5.50;;1;lost;v England;Napier;20/02/2013;ODI # 3336;Newzealad;5
+842;270/2;474;5.66;270;2;won;v New Zealand;Napier;20/02/2013;ODI # 3336;England;1
+6;337/4;500;6.74;;1;won;v Zimbabwe;St George's;22/02/2013;ODI # 3337;WestIndies;4
+556;185;435;4.22;;1;lost;v England;Auckland;23/02/2013;ODI # 3338;Newzealad;5
+843;186/5;373;4.96;186;2;won;v New Zealand;Auckland;23/02/2013;ODI # 3338;England;1
+7;274/3;490;5.59;274;2;won;v Zimbabwe;St George's;24/02/2013;ODI # 3339;WestIndies;4
+8;215/5;462;4.64;212;2;won;v Zimbabwe;St George's;26/02/2013;ODI # 3340;WestIndies;4
+1207;203/3;335;6.00;200;2;won;v Scotland;Sharjah;06/03/2013;ODI # 3341;Afghanistan;40
+1208;261/5;484;5.36;260;2;won;v Scotland;Sharjah;08/03/2013;ODI # 3342;Afghanistan;40
+280;315/4;500;6.30;;1;won;v Pakistan;Bloemfontein;10/03/2013;ODI # 3343;SouthAfrica;3
+414;190;362;5.22;316;2;lost;v South Africa;Bloemfontein;10/03/2013;ODI # 3343;Pakistan;7
+281;191;432;4.40;;1;lost;v Pakistan;Centurion;15/03/2013;ODI # 3346;SouthAfrica;3
+415;192/4;392;4.88;192;2;won;v South Africa;Centurion;15/03/2013;ODI # 3346;Pakistan;7
+282;343/5;500;6.86;;1;won;v Pakistan;Johannesburg;17/03/2013;ODI # 3347;SouthAfrica;3
+416;309;481;6.41;344;2;lost;v South Africa;Johannesburg;17/03/2013;ODI # 3347;Pakistan;7
+283;234/9;500;4.68;;1;lost;v Pakistan;Durban;21/03/2013;ODI # 3348;SouthAfrica;3
+417;236/7;484;4.84;235;2;won;v South Africa;Durban;21/03/2013;ODI # 3348;Pakistan;7
+122;238/2;354;6.67;238;2;won;v Bangladesh;Hambantota;23/03/2013;ODI # 3349;SriLanka;8
+981;259/8;500;5.18;;1;lost;v Sri Lanka;Hambantota;23/03/2013;ODI # 3349;Bangladesh;25
+284;208/4;440;4.72;206;2;won;v Pakistan;Benoni;24/03/2013;ODI # 3350;SouthAfrica;3
+418;205;491;4.16;;1;lost;v South Africa;Benoni;24/03/2013;ODI # 3350;Pakistan;7
+123;33/0;50;6.60;;1;n/r;v Bangladesh;Hambantota;25/03/2013;ODI # 3351;SriLanka;8
+982;DNB;0;-;;0;n/r;v Sri Lanka;Hambantota;25/03/2013;ODI # 3351;Bangladesh;25
+124;302/9;500;6.04;;1;lost;v Bangladesh;Pallekele;28/03/2013;ODI # 3352;SriLanka;8
+983;184/7;260;7.07;183;2;won;v Sri Lanka;Pallekele;28/03/2013;ODI # 3352;Bangladesh;25
+984;269/8;500;5.38;;1;won;v Zimbabwe;Bulawayo;03/05/2013;ODI # 3353;Bangladesh;25
+985;252/9;500;5.04;;1;lost;v Zimbabwe;Bulawayo;05/05/2013;ODI # 3354;Bangladesh;25
+986;247/9;500;4.94;;1;lost;v Zimbabwe;Bulawayo;08/05/2013;ODI # 3355;Bangladesh;25
+419;231/7;500;4.62;;1;won;v Scotland;Edinburgh;17/05/2013;ODI # 3356;Pakistan;7
+420;266/5;470;5.65;;1;tied;v Ireland;Dublin;23/05/2013;ODI # 3357;Pakistan;7
+421;230/8;484;4.72;230;2;won;v Ireland;Dublin;26/05/2013;ODI # 3358;Pakistan;7
+285;341/3;500;6.82;;1;won;v Netherlands;Amstelveen;31/05/2013;ODI # 3359;SouthAfrica;3
+557;231/5;465;4.93;228;2;won;v England;Lord's;31/05/2013;ODI # 3360;Newzealad;5
+844;227/9;500;4.54;;1;lost;v New Zealand;Lord's;31/05/2013;ODI # 3360;England;1
+558;359/3;500;7.18;;1;won;v England;Southampton;02/06/2013;ODI # 3361;Newzealad;5
+845;273;441;6.18;360;2;lost;v New Zealand;Southampton;02/06/2013;ODI # 3361;England;1
+559;253;463;5.44;288;2;lost;v England;Nottingham;05/06/2013;ODI # 3362;Newzealad;5
+846;287/6;500;5.74;;1;won;v New Zealand;Nottingham;05/06/2013;ODI # 3362;England;1
+286;305;500;6.10;332;2;lost;v India;Cardiff;06/06/2013;ODI # 3363;SouthAfrica;3
+687;331/7;500;6.62;;1;won;v South Africa;Cardiff;06/06/2013;ODI # 3363;India;6
+9;172/8;404;4.22;171;2;won;v Pakistan;The Oval;07/06/2013;ODI # 3364;WestIndies;4
+422;170;480;3.54;;1;lost;v West Indies;The Oval;07/06/2013;ODI # 3364;Pakistan;7
+847;269/6;500;5.38;;1;won;v Australia;Birmingham;08/06/2013;ODI # 3365;England;1
+1086;221/9;500;4.42;270;2;lost;v England;Birmingham;08/06/2013;ODI # 3365;Australia;2
+125;138;375;3.64;;1;lost;v New Zealand;Cardiff;09/06/2013;ODI # 3366;SriLanka;8
+560;139/9;363;3.80;139;2;won;v Sri Lanka;Cardiff;09/06/2013;ODI # 3366;Newzealad;5
+287;234/9;500;4.68;;1;won;v Pakistan;Birmingham;10/06/2013;ODI # 3367;SouthAfrica;3
+423;167;450;3.71;235;2;lost;v South Africa;Birmingham;10/06/2013;ODI # 3367;Pakistan;7
+10;233/9;500;4.66;;1;lost;v India;The Oval;11/06/2013;ODI # 3368;WestIndies;4
+688;236/2;391;6.02;234;2;won;v West Indies;The Oval;11/06/2013;ODI # 3368;India;6
+561;51/2;150;3.40;244;2;n/r;v Australia;Birmingham;12/06/2013;ODI # 3369;Newzealad;5
+1087;243/8;500;4.86;;1;n/r;v New Zealand;Birmingham;12/06/2013;ODI # 3369;Australia;2
+126;297/3;471;6.29;294;2;won;v England;The Oval;13/06/2013;ODI # 3370;SriLanka;8
+848;293/7;500;5.86;;1;lost;v Sri Lanka;The Oval;13/06/2013;ODI # 3370;England;1
+11;190/6;261;7.26;191;2;tied;v South Africa;Cardiff;14/06/2013;ODI # 3371;WestIndies;4
+288;230/6;310;7.41;;1;tied;v West Indies;Cardiff;14/06/2013;ODI # 3371;SouthAfrica;3
+424;165;394;4.15;;1;lost;v India;Birmingham;15/06/2013;ODI # 3372;Pakistan;7
+689;102/2;191;5.32;102;2;won;v Pakistan;Birmingham;15/06/2013;ODI # 3372;India;6
+562;159/8;240;6.62;170;2;lost;v England;Cardiff;16/06/2013;ODI # 3373;Newzealad;5
+849;169;233;7.19;;1;won;v New Zealand;Cardiff;16/06/2013;ODI # 3373;England;1
+127;253/8;500;5.06;;1;won;v Australia;The Oval;17/06/2013;ODI # 3374;SriLanka;8
+1088;233;423;5.48;254;2;lost;v Sri Lanka;The Oval;17/06/2013;ODI # 3374;Australia;2
+289;175;384;4.52;;1;lost;v England;The Oval;19/06/2013;ODI # 3375;SouthAfrica;3
+850;179/3;373;4.77;176;2;won;v South Africa;The Oval;19/06/2013;ODI # 3375;England;1
+128;181/8;500;3.62;;1;lost;v India;Cardiff;20/06/2013;ODI # 3376;SriLanka;8
+690;182/2;350;5.20;182;2;won;v Sri Lanka;Cardiff;20/06/2013;ODI # 3376;India;6
+691;129/7;200;6.45;;1;won;v England;Birmingham;23/06/2013;ODI # 3377;India;6
+851;124/8;200;6.20;130;2;lost;v India;Birmingham;23/06/2013;ODI # 3377;England;1
+12;209/4;375;5.52;209;2;won;v Sri Lanka;Kingston;28/06/2013;ODI # 3378;WestIndies;4
+129;208;483;4.28;;1;lost;v West Indies;Kingston;28/06/2013;ODI # 3378;SriLanka;8
+13;230/9;474;4.82;230;2;won;v India;Kingston;30/06/2013;ODI # 3380;WestIndies;4
+692;229/7;500;4.58;;1;lost;v West Indies;Kingston;30/06/2013;ODI # 3380;India;6
+130;348/1;500;6.96;;1;won;v India;Kingston;02/07/2013;ODI # 3382;SriLanka;8
+693;187;445;4.17;349;2;lost;v Sri Lanka;Kingston;02/07/2013;ODI # 3382;India;6
+14;171;340;5.02;274;2;lost;v India;Port of Spain;05/07/2013;ODI # 3383;WestIndies;4
+694;311/7;500;6.22;;1;won;v West Indies;Port of Spain;05/07/2013;ODI # 3383;India;6
+15;190/9;410;4.63;230;2;lost;v Sri Lanka;Port of Spain;07/07/2013;ODI # 3385;WestIndies;4
+131;219/8;410;5.34;;1;won;v West Indies;Port of Spain;07/07/2013;ODI # 3385;SriLanka;8
+132;96;244;3.89;178;2;lost;v India;Port of Spain;09/07/2013;ODI # 3387;SriLanka;8
+695;119/3;290;4.10;;1;won;v Sri Lanka;Port of Spain;09/07/2013;ODI # 3387;India;6
+133;201;485;4.11;;1;lost;v India;Port of Spain;11/07/2013;ODI # 3388;SriLanka;8
+696;203/9;494;4.08;202;2;won;v Sri Lanka;Port of Spain;11/07/2013;ODI # 3388;India;6
+16;98;410;2.39;225;2;lost;v Pakistan;Providence;14/07/2013;ODI # 3389;WestIndies;4
+425;224/9;500;4.48;;1;won;v West Indies;Providence;14/07/2013;ODI # 3389;Pakistan;7
+17;232/8;500;4.64;;1;won;v Pakistan;Providence;16/07/2013;ODI # 3390;WestIndies;4
+426;195;475;4.07;233;2;lost;v West Indies;Providence;16/07/2013;ODI # 3390;Pakistan;7
+18;229/9;500;4.58;230;2;tied;v Pakistan;Gros Islet;19/07/2013;ODI # 3391;WestIndies;4
+427;229/6;500;4.58;;1;tied;v West Indies;Gros Islet;19/07/2013;ODI # 3391;Pakistan;7
+134;320/5;500;6.40;;1;won;v South Africa;Colombo (RPS);20/07/2013;ODI # 3392;SriLanka;8
+290;140;315;4.39;321;2;lost;v Sri Lanka;Colombo (RPS);20/07/2013;ODI # 3392;SouthAfrica;3
+19;261/7;490;5.32;;1;lost;v Pakistan;Gros Islet;21/07/2013;ODI # 3393;WestIndies;4
+428;189/4;300;6.30;189;2;won;v West Indies;Gros Islet;21/07/2013;ODI # 3393;Pakistan;7
+135;223/9;492;4.52;;1;won;v South Africa;Colombo (RPS);23/07/2013;ODI # 3394;SriLanka;8
+291;104/5;210;4.95;122;2;lost;v Sri Lanka;Colombo (RPS);23/07/2013;ODI # 3394;SouthAfrica;3
+697;230/4;445;5.13;229;2;won;v Zimbabwe;Harare;24/07/2013;ODI # 3395;India;6
+20;242/7;500;4.84;;1;lost;v Pakistan;Gros Islet;24/07/2013;ODI # 3396;WestIndies;4
+429;243/6;495;4.87;243;2;won;v West Indies;Gros Islet;24/07/2013;ODI # 3396;Pakistan;7
+698;294/8;500;5.88;;1;won;v Zimbabwe;Harare;26/07/2013;ODI # 3397;India;6
+136;167;432;3.85;224;2;lost;v South Africa;Pallekele;26/07/2013;ODI # 3398;SriLanka;8
+292;223/7;500;4.46;;1;won;v Sri Lanka;Pallekele;26/07/2013;ODI # 3398;SouthAfrica;3
+699;187/3;353;5.26;184;2;won;v Zimbabwe;Harare;28/07/2013;ODI # 3399;India;6
+137;239/2;440;5.43;239;2;won;v South Africa;Pallekele;28/07/2013;ODI # 3400;SriLanka;8
+293;238;484;4.89;;1;lost;v Sri Lanka;Pallekele;28/07/2013;ODI # 3400;SouthAfrica;3
+138;307/4;500;6.14;;1;won;v South Africa;Colombo (RPS);31/07/2013;ODI # 3401;SriLanka;8
+294;179;435;4.08;308;2;lost;v Sri Lanka;Colombo (RPS);31/07/2013;ODI # 3401;SouthAfrica;3
+700;145/1;305;4.70;145;2;won;v Zimbabwe;Bulawayo;01/08/2013;ODI # 3402;India;6
+701;167/3;340;4.91;164;2;won;v Zimbabwe;Bulawayo;03/08/2013;ODI # 3403;India;6
+430;244/7;500;4.88;;1;lost;v Zimbabwe;Harare;27/08/2013;ODI # 3404;Pakistan;7
+431;299/4;500;5.98;;1;won;v Zimbabwe;Harare;29/08/2013;ODI # 3406;Pakistan;7
+432;260/6;500;5.20;;1;won;v Zimbabwe;Harare;31/08/2013;ODI # 3408;Pakistan;7
+852;274/4;430;6.37;270;2;won;v Ireland;Dublin (Malahide);03/09/2013;ODI # 3409;England;1
+1089;362/3;500;7.24;;1;won;v Scotland;Edinburgh;03/09/2013;ODI # 3410;Australia;2
+853;227;442;5.12;316;2;lost;v Australia;Manchester;08/09/2013;ODI # 3412;England;1
+1090;315/7;500;6.30;;1;won;v England;Manchester;08/09/2013;ODI # 3412;Australia;2
+854;59/3;151;3.89;;1;n/r;v Australia;Birmingham;11/09/2013;ODI # 3414;England;1
+1091;DNB;0;-;;0;n/r;v England;Birmingham;11/09/2013;ODI # 3414;Australia;2
+855;231/7;493;4.66;228;2;won;v Australia;Cardiff;14/09/2013;ODI # 3415;England;1
+1092;227;482;4.69;;1;lost;v England;Cardiff;14/09/2013;ODI # 3415;Australia;2
+856;249;480;5.18;299;2;lost;v Australia;Southampton;16/09/2013;ODI # 3416;England;1
+1093;298;491;6.06;;1;won;v England;Southampton;16/09/2013;ODI # 3416;Australia;2
+1209;95/2;175;5.32;90;2;won;v Kenya;Sharjah;02/10/2013;ODI # 3417;Afghanistan;40
+1210;96/3;205;4.60;94;2;won;v Kenya;Sharjah;04/10/2013;ODI # 3418;Afghanistan;40
+702;232;494;4.67;305;2;lost;v Australia;Pune;13/10/2013;ODI # 3419;India;6
+1094;304/8;500;6.08;;1;won;v India;Pune;13/10/2013;ODI # 3419;Australia;2
+703;362/1;433;8.32;360;2;won;v Australia;Jaipur;16/10/2013;ODI # 3420;India;6
+1095;359/5;500;7.18;;1;lost;v India;Jaipur;16/10/2013;ODI # 3420;Australia;2
+704;303/9;500;6.06;;1;lost;v Australia;Mohali;19/10/2013;ODI # 3421;India;6
+1096;304/6;493;6.14;304;2;won;v India;Mohali;19/10/2013;ODI # 3421;Australia;2
+705;27/0;41;6.48;296;2;n/r;v Australia;Ranchi;23/10/2013;ODI # 3422;India;6
+1097;295/8;500;5.90;;1;n/r;v India;Ranchi;23/10/2013;ODI # 3422;Australia;2
+563;162;295;5.43;206;2;lost;v Bangladesh;Dhaka;29/10/2013;ODI # 3423;Newzealad;5
+987;265;495;5.31;;1;won;v New Zealand;Dhaka;29/10/2013;ODI # 3423;Bangladesh;25
+706;351/4;493;7.09;351;2;won;v Australia;Nagpur;30/10/2013;ODI # 3424;India;6
+1098;350/6;500;7.00;;1;lost;v India;Nagpur;30/10/2013;ODI # 3424;Australia;2
+295;183;495;3.67;;1;won;v Pakistan;Sharjah;30/10/2013;ODI # 3425;SouthAfrica;3
+433;182;463;3.91;184;2;lost;v South Africa;Sharjah;30/10/2013;ODI # 3425;Pakistan;7
+564;207;464;4.43;248;2;lost;v Bangladesh;Dhaka;31/10/2013;ODI # 3426;Newzealad;5
+988;247;490;5.04;;1;won;v New Zealand;Dhaka;31/10/2013;ODI # 3426;Bangladesh;25
+296;143;404;3.51;210;2;lost;v Pakistan;Dubai (DSC);01/11/2013;ODI # 3427;SouthAfrica;3
+434;209;494;4.20;;1;won;v South Africa;Dubai (DSC);01/11/2013;ODI # 3427;Pakistan;7
+707;383/6;500;7.66;;1;won;v Australia;Bengaluru;02/11/2013;ODI # 3428;India;6
+1099;326;451;7.21;384;2;lost;v India;Bengaluru;02/11/2013;ODI # 3428;Australia;2
+565;307/5;500;6.14;;1;lost;v Bangladesh;Fatullah;03/11/2013;ODI # 3429;Newzealad;5
+989;309/6;492;6.26;308;2;won;v New Zealand;Fatullah;03/11/2013;ODI # 3429;Bangladesh;25
+297;259/8;500;5.18;;1;won;v Pakistan;Abu Dhabi;06/11/2013;ODI # 3430;SouthAfrica;3
+435;191;443;4.29;260;2;lost;v South Africa;Abu Dhabi;06/11/2013;ODI # 3430;Pakistan;7
+298;266/5;500;5.32;;1;won;v Pakistan;Abu Dhabi;08/11/2013;ODI # 3431;SouthAfrica;3
+436;238;492;4.82;267;2;lost;v South Africa;Abu Dhabi;08/11/2013;ODI # 3431;Pakistan;7
+139;288/9;500;5.76;;1;n/r;v New Zealand;Hambantota;10/11/2013;ODI # 3432;SriLanka;8
+566;13/1;42;3.00;289;2;n/r;v Sri Lanka;Hambantota;10/11/2013;ODI # 3432;Newzealad;5
+299;268/7;500;5.36;;1;won;v Pakistan;Sharjah;11/11/2013;ODI # 3433;SouthAfrica;3
+437;151;353;4.25;269;2;lost;v South Africa;Sharjah;11/11/2013;ODI # 3433;Pakistan;7
+140;138/1;230;6.00;;1;lost;v New Zealand;Hambantota;12/11/2013;ODI # 3434;SriLanka;8
+567;203/6;230;8.82;198;2;won;v Sri Lanka;Hambantota;12/11/2013;ODI # 3434;Newzealad;5
+141;211/8;330;6.39;;1;won;v New Zealand;Dambulla;16/11/2013;ODI # 3435;SriLanka;8
+568;126/6;250;5.04;163;2;lost;v Sri Lanka;Dambulla;16/11/2013;ODI # 3435;Newzealad;5
+21;211;485;4.32;;1;lost;v India;Kochi;21/11/2013;ODI # 3436;WestIndies;4
+708;212/4;352;6.00;212;2;won;v West Indies;Kochi;21/11/2013;ODI # 3436;India;6
+22;289/8;493;5.83;289;2;won;v India;Visakhapatnam;24/11/2013;ODI # 3437;WestIndies;4
+709;288/7;500;5.76;;1;lost;v West Indies;Visakhapatnam;24/11/2013;ODI # 3437;India;6
+300;195;481;4.04;219;2;lost;v Pakistan;Cape Town;24/11/2013;ODI # 3438;SouthAfrica;3
+438;218/9;500;4.36;;1;won;v South Africa;Cape Town;24/11/2013;ODI # 3438;Pakistan;7
+23;263/5;500;5.26;;1;lost;v India;Kanpur;27/11/2013;ODI # 3439;WestIndies;4
+710;266/5;461;5.76;264;2;won;v West Indies;Kanpur;27/11/2013;ODI # 3439;India;6
+301;261/6;450;5.80;263;2;lost;v Pakistan;Port Elizabeth;27/11/2013;ODI # 3440;SouthAfrica;3
+439;262;450;5.82;;1;won;v South Africa;Port Elizabeth;27/11/2013;ODI # 3440;Pakistan;7
+302;181/6;384;4.68;180;2;won;v Pakistan;Centurion;30/11/2013;ODI # 3441;SouthAfrica;3
+440;179;465;3.82;;1;lost;v South Africa;Centurion;30/11/2013;ODI # 3441;Pakistan;7
+303;358/4;500;7.16;;1;won;v India;Johannesburg;05/12/2013;ODI # 3442;SouthAfrica;3
+711;217;410;5.29;359;2;lost;v South Africa;Johannesburg;05/12/2013;ODI # 3442;India;6
+304;280/6;490;5.71;;1;won;v India;Durban;08/12/2013;ODI # 3443;SouthAfrica;3
+712;146;351;4.15;281;2;lost;v South Africa;Durban;08/12/2013;ODI # 3443;India;6
+305;301/8;500;6.02;;1;n/r;v India;Centurion;11/12/2013;ODI # 3444;SouthAfrica;3
+713;DNB;0;-;;0;n/r;v South Africa;Centurion;11/12/2013;ODI # 3444;India;6
+142;311;494;6.26;323;2;lost;v Pakistan;Sharjah;18/12/2013;ODI # 3445;SriLanka;8
+441;322/5;500;6.44;;1;won;v Sri Lanka;Sharjah;18/12/2013;ODI # 3445;Pakistan;7
+143;287/8;494;5.77;285;2;won;v Pakistan;Dubai (DSC);20/12/2013;ODI # 3446;SriLanka;8
+442;284/4;500;5.68;;1;lost;v Sri Lanka;Dubai (DSC);20/12/2013;ODI # 3446;Pakistan;7
+144;213;444;4.76;327;2;lost;v Pakistan;Sharjah;22/12/2013;ODI # 3447;SriLanka;8
+443;326/5;500;6.52;;1;won;v Sri Lanka;Sharjah;22/12/2013;ODI # 3447;Pakistan;7
+145;225;485;4.60;;1;lost;v Pakistan;Abu Dhabi;25/12/2013;ODI # 3448;SriLanka;8
+444;226/2;411;5.48;226;2;won;v Sri Lanka;Abu Dhabi;25/12/2013;ODI # 3448;Pakistan;7
+24;157/8;273;5.70;157;2;won;v New Zealand;Auckland;26/12/2013;ODI # 3449;WestIndies;4
+569;156;421;3.69;;1;lost;v West Indies;Auckland;26/12/2013;ODI # 3449;Newzealad;5
+146;235/8;494;4.73;233;2;won;v Pakistan;Abu Dhabi;27/12/2013;ODI # 3450;SriLanka;8
+445;232;493;4.68;;1;lost;v Sri Lanka;Abu Dhabi;27/12/2013;ODI # 3450;Pakistan;7
+25;124/5;210;5.90;284;2;lost;v New Zealand;Queenstown;01/01/2014;ODI # 3451;WestIndies;4
+570;283/4;210;13.47;;1;won;v West Indies;Queenstown;01/01/2014;ODI # 3451;Newzealad;5
+26;134/5;334;3.98;193;2;lost;v New Zealand;Nelson;04/01/2014;ODI # 3452;WestIndies;4
+571;285/6;500;5.70;;1;won;v West Indies;Nelson;04/01/2014;ODI # 3452;Newzealad;5
+27;363/4;500;7.26;;1;won;v New Zealand;Hamilton;08/01/2014;ODI # 3453;WestIndies;4
+572;160;295;5.36;364;2;lost;v West Indies;Hamilton;08/01/2014;ODI # 3453;Newzealad;5
+857;269/7;500;5.38;;1;lost;v Australia;Melbourne;12/01/2014;ODI # 3454;England;1
+1100;270/4;454;5.91;270;2;won;v England;Melbourne;12/01/2014;ODI # 3454;Australia;2
+858;300/8;500;6.00;;1;lost;v Australia;Brisbane;17/01/2014;ODI # 3455;England;1
+1101;301/9;493;6.08;301;2;won;v England;Brisbane;17/01/2014;ODI # 3455;Australia;2
+573;292/7;500;5.84;;1;won;v India;Napier;19/01/2014;ODI # 3456;Newzealad;5
+714;268;484;5.50;293;2;lost;v New Zealand;Napier;19/01/2014;ODI # 3456;India;6
+859;243/9;500;4.86;;1;lost;v Australia;Sydney;19/01/2014;ODI # 3457;England;1
+1102;244/3;400;6.10;244;2;won;v England;Sydney;19/01/2014;ODI # 3457;Australia;2
+574;271/7;420;6.45;;1;won;v India;Hamilton;22/01/2014;ODI # 3458;Newzealad;5
+715;277/9;413;6.67;293;2;lost;v New Zealand;Hamilton;22/01/2014;ODI # 3458;India;6
+860;316/8;500;6.32;;1;won;v Australia;Perth;24/01/2014;ODI # 3461;England;1
+1103;259;474;5.43;317;2;lost;v England;Perth;24/01/2014;ODI # 3461;Australia;2
+575;314;500;6.28;;1;tied;v India;Auckland;25/01/2014;ODI # 3462;Newzealad;5
+716;314/9;500;6.28;315;2;tied;v New Zealand;Auckland;25/01/2014;ODI # 3462;India;6
+861;212;494;4.26;218;2;lost;v Australia;Adelaide;26/01/2014;ODI # 3463;England;1
+1104;217/9;500;4.34;;1;won;v England;Adelaide;26/01/2014;ODI # 3463;Australia;2
+576;280/3;481;5.81;279;2;won;v India;Hamilton;28/01/2014;ODI # 3465;Newzealad;5
+717;278/5;500;5.56;;1;lost;v New Zealand;Hamilton;28/01/2014;ODI # 3465;India;6
+577;303/5;500;6.06;;1;won;v India;Wellington;31/01/2014;ODI # 3467;Newzealad;5
+718;216;494;4.34;304;2;lost;v New Zealand;Wellington;31/01/2014;ODI # 3467;India;6
+147;180;400;4.50;;1;won;v Bangladesh;Dhaka;17/02/2014;ODI # 3469;SriLanka;8
+990;167;392;4.24;181;2;lost;v Sri Lanka;Dhaka;17/02/2014;ODI # 3469;Bangladesh;25
+148;289/6;500;5.78;;1;won;v Bangladesh;Dhaka;20/02/2014;ODI # 3470;SriLanka;8
+991;228;430;5.30;290;2;lost;v Sri Lanka;Dhaka;20/02/2014;ODI # 3470;Bangladesh;25
+149;246/4;473;5.17;241;2;won;v Bangladesh;Dhaka;22/02/2014;ODI # 3471;SriLanka;8
+992;240/8;500;4.80;;1;lost;v Sri Lanka;Dhaka;22/02/2014;ODI # 3471;Bangladesh;25
+28;205/6;364;5.59;203;2;won;v Ireland;Kingston;23/02/2014;ODI # 3472;WestIndies;4
+150;296/6;500;5.92;;1;won;v Pakistan;Fatullah;25/02/2014;ODI # 3473;SriLanka;8
+446;284;485;5.81;297;2;lost;v Sri Lanka;Fatullah;25/02/2014;ODI # 3473;Pakistan;7
+719;280/4;490;5.71;280;2;won;v Bangladesh;Fatullah;26/02/2014;ODI # 3474;India;6
+993;279/7;500;5.58;;1;lost;v India;Fatullah;26/02/2014;ODI # 3474;Bangladesh;25
+447;248/8;500;4.96;;1;won;v Afghanistan;Fatullah;27/02/2014;ODI # 3475;Pakistan;7
+1211;176;472;3.71;249;2;lost;v Pakistan;Fatullah;27/02/2014;ODI # 3475;Afghanistan;40
+151;265/8;492;5.37;265;2;won;v India;Fatullah;28/02/2014;ODI # 3476;SriLanka;8
+720;264/9;500;5.28;;1;lost;v Sri Lanka;Fatullah;28/02/2014;ODI # 3476;India;6
+29;269/6;500;5.38;;1;won;v England;North Sound;28/02/2014;ODI # 3477;WestIndies;4
+862;254/6;500;5.08;270;2;lost;v West Indies;North Sound;28/02/2014;ODI # 3477;England;1
+994;222;475;4.64;255;2;lost;v Afghanistan;Fatullah;01/03/2014;ODI # 3478;Bangladesh;25
+1212;254/6;500;5.08;;1;won;v Bangladesh;Fatullah;01/03/2014;ODI # 3478;Afghanistan;40
+448;249/9;494;5.01;246;2;won;v India;Dhaka;02/03/2014;ODI # 3479;Pakistan;7
+721;245/8;500;4.90;;1;lost;v Pakistan;Dhaka;02/03/2014;ODI # 3479;India;6
+30;159;442;3.58;;1;lost;v England;North Sound;02/03/2014;ODI # 3480;WestIndies;4
+863;163/7;445;3.63;160;2;won;v West Indies;North Sound;02/03/2014;ODI # 3480;England;1
+152;253/6;500;5.06;;1;won;v Afghanistan;Dhaka;03/03/2014;ODI # 3481;SriLanka;8
+1213;124;384;3.20;254;2;lost;v Sri Lanka;Dhaka;03/03/2014;ODI # 3481;Afghanistan;40
+449;329/7;495;6.60;327;2;won;v Bangladesh;Dhaka;04/03/2014;ODI # 3482;Pakistan;7
+995;326/3;500;6.52;;1;lost;v Pakistan;Dhaka;04/03/2014;ODI # 3482;Bangladesh;25
+722;160/2;322;4.94;160;2;won;v Afghanistan;Dhaka;05/03/2014;ODI # 3483;India;6
+1214;159;452;3.50;;1;lost;v India;Dhaka;05/03/2014;ODI # 3483;Afghanistan;40
+31;278;474;5.83;304;2;lost;v England;North Sound;05/03/2014;ODI # 3484;WestIndies;4
+864;303/6;500;6.06;;1;won;v West Indies;North Sound;05/03/2014;ODI # 3484;England;1
+153;208/7;490;4.24;205;2;won;v Bangladesh;Dhaka;06/03/2014;ODI # 3485;SriLanka;8
+996;204/9;500;4.08;;1;lost;v Sri Lanka;Dhaka;06/03/2014;ODI # 3485;Bangladesh;25
+154;261/5;462;5.63;261;2;won;v Pakistan;Dhaka;08/03/2014;ODI # 3486;SriLanka;8
+450;260/5;500;5.20;;1;lost;v Sri Lanka;Dhaka;08/03/2014;ODI # 3486;Pakistan;7
+1215;218/4;431;5.05;217;2;won;v Hong Kong;Kuala Lumpur;01/05/2014;ODI # 3487;Afghanistan;40
+1216;302/5;500;6.04;;1;won;v U.A.E.;Kuala Lumpur;02/05/2014;ODI # 3488;Afghanistan;40
+155;219/8;500;4.38;;1;won;v Ireland;Dublin;06/05/2014;ODI # 3490;SriLanka;8
+865;167/6;200;8.35;;1;won;v Scotland;Aberdeen;09/05/2014;ODI # 3491;England;1
+156;144;275;5.17;226;2;lost;v England;The Oval;22/05/2014;ODI # 3492;SriLanka;8
+866;247/6;390;6.33;;1;won;v Sri Lanka;The Oval;22/05/2014;ODI # 3492;England;1
+157;256/8;500;5.12;;1;won;v England;Chester-le-Street;25/05/2014;ODI # 3493;SriLanka;8
+867;99;261;3.78;257;2;lost;v Sri Lanka;Chester-le-Street;25/05/2014;ODI # 3493;England;1
+158;67;240;2.79;;1;lost;v England;Manchester;28/05/2014;ODI # 3494;SriLanka;8
+868;73/0;121;6.00;68;2;won;v Sri Lanka;Manchester;28/05/2014;ODI # 3494;England;1
+159;300/9;500;6.00;;1;won;v England;Lord's;31/05/2014;ODI # 3495;SriLanka;8
+869;293/8;500;5.86;301;2;lost;v Sri Lanka;Lord's;31/05/2014;ODI # 3495;England;1
+160;222/4;482;4.59;220;2;won;v England;Birmingham;03/06/2014;ODI # 3496;SriLanka;8
+870;219;481;4.54;;1;lost;v Sri Lanka;Birmingham;03/06/2014;ODI # 3496;England;1
+723;153/3;245;6.16;150;2;won;v Bangladesh;Dhaka;15/06/2014;ODI # 3497;India;6
+997;272/9;500;5.44;;1;lost;v India;Dhaka;15/06/2014;ODI # 3497;Bangladesh;25
+724;105;253;4.11;;1;won;v Bangladesh;Dhaka;17/06/2014;ODI # 3498;India;6
+998;58;174;3.28;106;2;lost;v India;Dhaka;17/06/2014;ODI # 3498;Bangladesh;25
+725;119/9;342;3.46;;1;n/r;v Bangladesh;Dhaka;19/06/2014;ODI # 3499;India;6
+999;DNB;0;-;;0;n/r;v India;Dhaka;19/06/2014;ODI # 3499;Bangladesh;25
+161;229;403;5.65;305;2;lost;v South Africa;Colombo (RPS);06/07/2014;ODI # 3500;SriLanka;8
+306;304/5;500;6.08;;1;won;v Sri Lanka;Colombo (RPS);06/07/2014;ODI # 3500;SouthAfrica;3
+162;267;492;5.41;;1;won;v South Africa;Pallekele;09/07/2014;ODI # 3501;SriLanka;8
+307;180;381;4.71;268;2;lost;v Sri Lanka;Pallekele;09/07/2014;ODI # 3501;SouthAfrica;3
+163;257;443;5.77;340;2;lost;v South Africa;Hambantota;12/07/2014;ODI # 3502;SriLanka;8
+308;339/5;500;6.78;;1;won;v Sri Lanka;Hambantota;12/07/2014;ODI # 3502;SouthAfrica;3
+1217;223/9;500;4.46;;1;lost;v Zimbabwe;Bulawayo;18/07/2014;ODI # 3503;Afghanistan;40
+1218;256/7;500;5.12;;1;lost;v Zimbabwe;Bulawayo;20/07/2014;ODI # 3504;Afghanistan;40
+1219;264/8;494;5.31;262;2;won;v Zimbabwe;Bulawayo;22/07/2014;ODI # 3505;Afghanistan;40
+1220;259;491;5.26;;1;won;v Zimbabwe;Bulawayo;24/07/2014;ODI # 3506;Afghanistan;40
+309;309/3;500;6.18;;1;won;v Zimbabwe;Bulawayo;17/08/2014;ODI # 3507;SouthAfrica;3
+310;257;494;5.17;;1;won;v Zimbabwe;Bulawayo;19/08/2014;ODI # 3508;SouthAfrica;3
+32;219/7;394;5.52;218;2;won;v Bangladesh;St George's;20/08/2014;ODI # 3509;WestIndies;4
+1000;217/9;500;4.34;;1;lost;v West Indies;St George's;20/08/2014;ODI # 3509;Bangladesh;25
+311;171/3;272;6.25;166;2;won;v Zimbabwe;Bulawayo;21/08/2014;ODI # 3510;SouthAfrica;3
+33;247/7;500;4.94;;1;won;v Bangladesh;St George's;22/08/2014;ODI # 3511;WestIndies;4
+1001;70;244;2.83;248;2;lost;v West Indies;St George's;22/08/2014;ODI # 3511;Bangladesh;25
+164;275/7;450;6.11;;1;lost;v Pakistan;Hambantota;23/08/2014;ODI # 3512;SriLanka;8
+451;277/6;445;6.17;275;2;won;v Sri Lanka;Hambantota;23/08/2014;ODI # 3512;Pakistan;7
+1105;350/6;500;7.00;;1;won;v Zimbabwe;Harare;25/08/2014;ODI # 3513;Australia;2
+34;338/7;500;6.76;;1;won;v Bangladesh;Basseterre;25/08/2014;ODI # 3514;WestIndies;4
+1002;247/8;500;4.94;339;2;lost;v West Indies;Basseterre;25/08/2014;ODI # 3514;Bangladesh;25
+165;310/9;500;6.20;;1;won;v Pakistan;Hambantota;26/08/2014;ODI # 3515;SriLanka;8
+452;233;435;5.31;311;2;lost;v Sri Lanka;Hambantota;26/08/2014;ODI # 3515;Pakistan;7
+312;328/3;464;7.02;328;2;won;v Australia;Harare;27/08/2014;ODI # 3516;SouthAfrica;3
+1106;327/7;500;6.54;;1;lost;v South Africa;Harare;27/08/2014;ODI # 3516;Australia;2
+726;304/6;500;6.08;;1;won;v England;Cardiff;27/08/2014;ODI # 3517;India;6
+871;161;381;4.21;295;2;lost;v India;Cardiff;27/08/2014;ODI # 3517;England;1
+313;231;495;4.63;;1;won;v Zimbabwe;Harare;29/08/2014;ODI # 3518;SouthAfrica;3
+166;104/3;182;5.67;101;2;won;v Pakistan;Dambulla;30/08/2014;ODI # 3519;SriLanka;8
+453;102;321;3.17;;1;lost;v Sri Lanka;Dambulla;30/08/2014;ODI # 3519;Pakistan;7
+727;228/4;430;5.30;228;2;won;v England;Nottingham;30/08/2014;ODI # 3520;India;6
+872;227;500;4.54;;1;lost;v India;Nottingham;30/08/2014;ODI # 3520;England;1
+1107;209/9;500;4.18;;1;lost;v Zimbabwe;Harare;31/08/2014;ODI # 3521;Australia;2
+314;220;440;5.00;283;2;lost;v Australia;Harare;02/09/2014;ODI # 3522;SouthAfrica;3
+1108;282/7;500;5.64;;1;won;v South Africa;Harare;02/09/2014;ODI # 3522;Australia;2
+728;212/1;303;6.95;207;2;won;v England;Birmingham;02/09/2014;ODI # 3523;India;6
+873;206;493;4.16;;1;lost;v India;Birmingham;02/09/2014;ODI # 3523;England;1
+315;271/6;500;5.42;;1;won;v Zimbabwe;Harare;04/09/2014;ODI # 3524;SouthAfrica;3
+729;253;484;5.19;295;2;lost;v England;Leeds;05/09/2014;ODI # 3525;India;6
+874;294/7;500;5.88;;1;won;v India;Leeds;05/09/2014;ODI # 3525;England;1
+316;221/4;405;5.41;218;2;won;v Australia;Harare;06/09/2014;ODI # 3526;SouthAfrica;3
+1109;217/9;500;4.34;;1;lost;v South Africa;Harare;06/09/2014;ODI # 3526;Australia;2
+454;162;363;4.43;256;2;lost;v Australia;Sharjah;07/10/2014;ODI # 3530;Pakistan;7
+1110;255/8;500;5.10;;1;won;v Pakistan;Sharjah;07/10/2014;ODI # 3530;Australia;2
+35;321/6;500;6.42;;1;won;v India;Kochi;08/10/2014;ODI # 3531;WestIndies;4
+730;197;410;4.80;322;2;lost;v West Indies;Kochi;08/10/2014;ODI # 3531;India;6
+455;215;493;4.34;;1;lost;v Australia;Dubai (DSC);10/10/2014;ODI # 3532;Pakistan;7
+1111;217/5;432;5.00;216;2;won;v Pakistan;Dubai (DSC);10/10/2014;ODI # 3532;Australia;2
+36;215;463;4.62;264;2;lost;v India;Delhi;11/10/2014;ODI # 3533;WestIndies;4
+731;263/7;500;5.26;;1;won;v West Indies;Delhi;11/10/2014;ODI # 3533;India;6
+456;230;500;4.60;232;2;lost;v Australia;Abu Dhabi;12/10/2014;ODI # 3534;Pakistan;7
+1112;231/9;500;4.62;;1;won;v Pakistan;Abu Dhabi;12/10/2014;ODI # 3534;Australia;2
+37;271;481;5.62;331;2;lost;v India;Dharamsala;17/10/2014;ODI # 3535;WestIndies;4
+732;330/6;500;6.60;;1;won;v West Indies;Dharamsala;17/10/2014;ODI # 3535;India;6
+317;236/4;481;4.89;231;2;won;v New Zealand;Mount Maunganui;21/10/2014;ODI # 3536;SouthAfrica;3
+578;230;451;5.09;;1;lost;v South Africa;Mount Maunganui;21/10/2014;ODI # 3536;Newzealad;5
+318;282/9;500;5.64;;1;won;v New Zealand;Mount Maunganui;24/10/2014;ODI # 3537;SouthAfrica;3
+579;210;463;4.51;283;2;lost;v South Africa;Mount Maunganui;24/10/2014;ODI # 3537;Newzealad;5
+319;157/3;304;5.11;;1;n/r;v New Zealand;Hamilton;27/10/2014;ODI # 3538;SouthAfrica;3
+580;DNB;0;-;;0;n/r;v South Africa;Hamilton;27/10/2014;ODI # 3538;Newzealad;5
+167;194;392;4.93;364;2;lost;v India;Cuttack;02/11/2014;ODI # 3539;SriLanka;8
+733;363/5;500;7.26;;1;won;v Sri Lanka;Cuttack;02/11/2014;ODI # 3539;India;6
+168;274/8;500;5.48;;1;lost;v India;Ahmedabad;06/11/2014;ODI # 3540;SriLanka;8
+734;275/4;443;6.17;275;2;won;v Sri Lanka;Ahmedabad;06/11/2014;ODI # 3540;India;6
+169;242;482;5.00;;1;lost;v India;Hyderabad (Deccan);09/11/2014;ODI # 3543;SriLanka;8
+735;245/4;441;5.54;243;2;won;v Sri Lanka;Hyderabad (Deccan);09/11/2014;ODI # 3543;India;6
+170;251;431;5.81;405;2;lost;v India;Kolkata;13/11/2014;ODI # 3544;SriLanka;8
+736;404/5;500;8.08;;1;won;v Sri Lanka;Kolkata;13/11/2014;ODI # 3544;India;6
+320;268;481;5.56;301;2;lost;v Australia;Perth;14/11/2014;ODI # 3545;SouthAfrica;3
+1113;300/8;500;6.00;;1;won;v South Africa;Perth;14/11/2014;ODI # 3545;Australia;2
+321;157/7;274;5.67;155;2;won;v Australia;Perth;16/11/2014;ODI # 3546;SouthAfrica;3
+1114;154;414;3.69;;1;lost;v South Africa;Perth;16/11/2014;ODI # 3546;Australia;2
+171;286/8;500;5.72;;1;lost;v India;Ranchi;16/11/2014;ODI # 3547;SriLanka;8
+737;288/7;484;5.91;287;2;won;v Sri Lanka;Ranchi;16/11/2014;ODI # 3547;India;6
+322;256;443;5.75;330;2;lost;v Australia;Canberra;19/11/2014;ODI # 3548;SouthAfrica;3
+1115;329/5;500;6.58;;1;won;v South Africa;Canberra;19/11/2014;ODI # 3548;Australia;2
+323;267/8;500;5.34;;1;lost;v Australia;Melbourne;21/11/2014;ODI # 3549;SouthAfrica;3
+1116;268/7;490;5.46;268;2;won;v South Africa;Melbourne;21/11/2014;ODI # 3549;Australia;2
+1003;281/7;500;5.62;;1;won;v Zimbabwe;Chattogram;21/11/2014;ODI # 3550;Bangladesh;25
+324;280/6;500;5.60;;1;lost;v Australia;Sydney;23/11/2014;ODI # 3551;SouthAfrica;3
+1117;275/8;471;5.83;275;2;won;v South Africa;Sydney;23/11/2014;ODI # 3551;Australia;2
+1004;251/7;500;5.02;;1;won;v Zimbabwe;Chattogram;23/11/2014;ODI # 3552;Bangladesh;25
+1005;297/6;500;5.94;;1;won;v Zimbabwe;Dhaka;26/11/2014;ODI # 3553;Bangladesh;25
+172;317/6;500;6.34;;1;won;v England;Colombo (RPS);26/11/2014;ODI # 3554;SriLanka;8
+875;292;471;6.19;318;2;lost;v Sri Lanka;Colombo (RPS);26/11/2014;ODI # 3554;England;1
+1006;256/8;500;5.12;;1;won;v Zimbabwe;Dhaka;28/11/2014;ODI # 3555;Bangladesh;25
+1221;248/6;500;4.96;;1;lost;v U.A.E.;ICCA Dubai;28/11/2014;ODI # 3556;Afghanistan;40
+173;186/2;342;5.41;186;2;won;v England;Colombo (RPS);29/11/2014;ODI # 3557;SriLanka;8
+876;185;430;4.30;;1;lost;v Sri Lanka;Colombo (RPS);29/11/2014;ODI # 3557;England;1
+1222;280/8;500;5.60;;1;lost;v U.A.E.;ICCA Dubai;30/11/2014;ODI # 3558;Afghanistan;40
+1007;130/5;243;5.30;129;2;won;v Zimbabwe;Dhaka;01/12/2014;ODI # 3559;Bangladesh;25
+1223;276/8;494;5.55;274;2;won;v U.A.E.;ICCA Dubai;02/12/2014;ODI # 3560;Afghanistan;40
+174;242/8;350;6.91;;1;lost;v England;Hambantota;03/12/2014;ODI # 3561;SriLanka;8
+877;236/5;334;7.00;236;2;won;v Sri Lanka;Hambantota;03/12/2014;ODI # 3561;England;1
+1224;228;493;4.60;259;2;lost;v U.A.E.;ICCA Dubai;04/12/2014;ODI # 3562;Afghanistan;40
+175;267/4;494;5.37;266;2;won;v England;Colombo (RPS);07/12/2014;ODI # 3563;SriLanka;8
+878;265;500;5.30;;1;lost;v Sri Lanka;Colombo (RPS);07/12/2014;ODI # 3563;England;1
+457;250/7;493;5.05;247;2;won;v New Zealand;Dubai (DSC);08/12/2014;ODI # 3564;Pakistan;7
+581;246/7;500;4.92;;1;lost;v Pakistan;Dubai (DSC);08/12/2014;ODI # 3564;Newzealad;5
+176;239;490;4.87;;1;lost;v England;Pallekele;10/12/2014;ODI # 3565;SriLanka;8
+879;240/5;491;4.88;240;2;won;v Sri Lanka;Pallekele;10/12/2014;ODI # 3565;England;1
+458;252;483;5.19;;1;lost;v New Zealand;Sharjah;12/12/2014;ODI # 3566;Pakistan;7
+582;255/6;460;5.54;253;2;won;v Pakistan;Sharjah;12/12/2014;ODI # 3566;Newzealad;5
+177;292/7;500;5.84;;1;won;v England;Pallekele;13/12/2014;ODI # 3567;SriLanka;8
+880;202;413;4.86;293;2;lost;v Sri Lanka;Pallekele;13/12/2014;ODI # 3567;England;1
+459;364/7;500;7.28;;1;won;v New Zealand;Sharjah;14/12/2014;ODI # 3568;Pakistan;7
+583;217;382;5.66;365;2;lost;v Pakistan;Sharjah;14/12/2014;ODI # 3568;Newzealad;5
+178;302/6;500;6.04;;1;won;v England;Colombo (RPS);16/12/2014;ODI # 3569;SriLanka;8
+881;215;455;4.69;303;2;lost;v Sri Lanka;Colombo (RPS);16/12/2014;ODI # 3569;England;1
+460;292/8;500;5.84;300;2;lost;v New Zealand;Abu Dhabi;17/12/2014;ODI # 3570;Pakistan;7
+584;299/5;500;5.98;;1;won;v Pakistan;Abu Dhabi;17/12/2014;ODI # 3570;Newzealad;5
+461;207;433;4.75;276;2;lost;v New Zealand;Abu Dhabi;19/12/2014;ODI # 3571;Pakistan;7
+585;275/4;500;5.50;;1;won;v Pakistan;Abu Dhabi;19/12/2014;ODI # 3571;Newzealad;5
+1225;240/2;380;6.31;238;2;won;v Scotland;ICCA Dubai;08/01/2015;ODI # 3572;Afghanistan;40
+1226;180;442;4.06;;1;lost;v Ireland;Dubai (DSC);10/01/2015;ODI # 3573;Afghanistan;40
+179;218/9;500;4.36;;1;lost;v New Zealand;Christchurch;11/01/2015;ODI # 3574;SriLanka;8
+586;219/7;430;5.09;219;2;won;v Sri Lanka;Christchurch;11/01/2015;ODI # 3574;Newzealad;5
+1227;63;183;3.40;214;2;lost;v Scotland;Abu Dhabi;14/01/2015;ODI # 3576;Afghanistan;40
+180;252/4;474;5.28;249;2;won;v New Zealand;Hamilton;15/01/2015;ODI # 3577;SriLanka;8
+587;248;500;4.96;;1;lost;v Sri Lanka;Hamilton;15/01/2015;ODI # 3577;Newzealad;5
+882;234;475;4.89;;1;lost;v Australia;Sydney;16/01/2015;ODI # 3578;England;1
+1118;235/7;395;5.89;235;2;won;v England;Sydney;16/01/2015;ODI # 3578;Australia;2
+38;164;282;5.78;226;2;lost;v South Africa;Durban;16/01/2015;ODI # 3579;WestIndies;4
+325;279/8;482;5.77;;1;won;v West Indies;Durban;16/01/2015;ODI # 3579;SouthAfrica;3
+181;DNB;0;-;;0;n/r;v New Zealand;Auckland;17/01/2015;ODI # 3580;SriLanka;8
+588;145/3;285;5.02;;1;n/r;v Sri Lanka;Auckland;17/01/2015;ODI # 3580;Newzealad;5
+1228;246/8;500;4.92;;1;won;v Ireland;Dubai (DSC);17/01/2015;ODI # 3581;Afghanistan;40
+738;267/8;500;5.34;;1;lost;v Australia;Melbourne;18/01/2015;ODI # 3582;India;6
+1119;269/6;490;5.48;268;2;won;v India;Melbourne;18/01/2015;ODI # 3582;Australia;2
+39;291/7;500;5.82;440;2;lost;v South Africa;Johannesburg;18/01/2015;ODI # 3583;WestIndies;4
+326;439/2;500;8.78;;1;won;v West Indies;Johannesburg;18/01/2015;ODI # 3583;SouthAfrica;3
+182;276;493;5.57;;1;lost;v New Zealand;Nelson;20/01/2015;ODI # 3585;SriLanka;8
+589;280/6;481;5.81;277;2;won;v Sri Lanka;Nelson;20/01/2015;ODI # 3585;Newzealad;5
+739;153;393;3.87;;1;lost;v England;Brisbane;20/01/2015;ODI # 3586;India;6
+883;156/1;273;5.67;154;2;won;v India;Brisbane;20/01/2015;ODI # 3586;England;1
+40;122;334;3.62;;1;lost;v South Africa;East London;21/01/2015;ODI # 3587;WestIndies;4
+327;124/1;244;5.02;123;2;won;v West Indies;East London;21/01/2015;ODI # 3587;SouthAfrica;3
+183;252;434;5.77;361;2;lost;v New Zealand;Dunedin;23/01/2015;ODI # 3588;SriLanka;8
+590;360/5;500;7.20;;1;won;v Sri Lanka;Dunedin;23/01/2015;ODI # 3588;Newzealad;5
+884;303/8;500;6.06;;1;lost;v Australia;Hobart;23/01/2015;ODI # 3589;England;1
+1120;304/7;495;6.10;304;2;won;v England;Hobart;23/01/2015;ODI # 3589;Australia;2
+184;195;403;4.81;316;2;lost;v New Zealand;Dunedin;25/01/2015;ODI # 3590;SriLanka;8
+591;315/8;500;6.30;;1;won;v Sri Lanka;Dunedin;25/01/2015;ODI # 3590;Newzealad;5
+41;266/9;483;5.48;263;2;won;v South Africa;Port Elizabeth;25/01/2015;ODI # 3591;WestIndies;4
+328;262/8;500;5.24;;1;lost;v West Indies;Port Elizabeth;25/01/2015;ODI # 3591;SouthAfrica;3
+740;69/2;160;4.31;;1;n/r;v Australia;Sydney;26/01/2015;ODI # 3592;India;6
+1121;DNB;0;-;;0;n/r;v India;Sydney;26/01/2015;ODI # 3592;Australia;2
+42;230;374;6.10;362;2;lost;v South Africa;Centurion;28/01/2015;ODI # 3593;WestIndies;4
+329;361/5;420;8.59;;1;won;v West Indies;Centurion;28/01/2015;ODI # 3593;SouthAfrica;3
+185;287/6;500;5.74;;1;won;v New Zealand;Wellington;29/01/2015;ODI # 3594;SriLanka;8
+592;253;452;5.58;288;2;lost;v Sri Lanka;Wellington;29/01/2015;ODI # 3594;Newzealad;5
+741;200;481;4.15;;1;lost;v England;Perth;30/01/2015;ODI # 3595;India;6
+885;201/7;465;4.29;201;2;won;v India;Perth;30/01/2015;ODI # 3595;England;1
+462;210;453;4.61;;1;lost;v New Zealand;Wellington;31/01/2015;ODI # 3596;Pakistan;7
+593;213/3;393;5.39;211;2;won;v Pakistan;Wellington;31/01/2015;ODI # 3596;Newzealad;5
+886;166;391;4.23;279;2;lost;v Australia;Perth;01/02/2015;ODI # 3597;England;1
+1122;278/8;500;5.56;;1;won;v England;Perth;01/02/2015;ODI # 3597;Australia;2
+463;250;431;5.79;370;2;lost;v New Zealand;Napier;03/02/2015;ODI # 3598;Pakistan;7
+594;369/5;500;7.38;;1;won;v Pakistan;Napier;03/02/2015;ODI # 3598;Newzealad;5
+186;233;461;5.04;332;2;lost;v New Zealand;Christchurch;14/02/2015;ODI # 3599;SriLanka;8
+595;331/6;500;6.62;;1;won;v Sri Lanka;Christchurch;14/02/2015;ODI # 3599;Newzealad;5
+887;231;415;5.52;343;2;lost;v Australia;Melbourne;14/02/2015;ODI # 3600;England;1
+1123;342/9;500;6.84;;1;won;v England;Melbourne;14/02/2015;ODI # 3600;Australia;2
+330;339/4;500;6.78;;1;won;v Zimbabwe;Hamilton;15/02/2015;ODI # 3601;SouthAfrica;3
+464;224;470;4.76;301;2;lost;v India;Adelaide;15/02/2015;ODI # 3602;Pakistan;7
+742;300/7;500;6.00;;1;won;v Pakistan;Adelaide;15/02/2015;ODI # 3602;India;6
+43;304/7;500;6.08;;1;lost;v Ireland;Nelson;16/02/2015;ODI # 3603;WestIndies;4
+596;146/7;245;5.87;143;2;won;v Scotland;Dunedin;17/02/2015;ODI # 3604;Newzealad;5
+1008;267;500;5.34;;1;won;v Afghanistan;Canberra;18/02/2015;ODI # 3605;Bangladesh;25
+1229;162;425;3.78;268;2;lost;v Bangladesh;Canberra;18/02/2015;ODI # 3605;Afghanistan;40
+597;125/2;122;10.13;124;2;won;v England;Wellington;20/02/2015;ODI # 3607;Newzealad;5
+888;123;332;3.69;;1;lost;v New Zealand;Wellington;20/02/2015;ODI # 3607;England;1
+44;310/6;500;6.20;;1;won;v Pakistan;Christchurch;21/02/2015;ODI # 3608;WestIndies;4
+465;160;390;4.10;311;2;lost;v West Indies;Christchurch;21/02/2015;ODI # 3608;Pakistan;7
+187;236/6;482;4.88;233;2;won;v Afghanistan;Dunedin;22/02/2015;ODI # 3609;SriLanka;8
+1230;232;494;4.67;;1;lost;v Sri Lanka;Dunedin;22/02/2015;ODI # 3609;Afghanistan;40
+331;177;402;4.38;308;2;lost;v India;Melbourne;22/02/2015;ODI # 3610;SouthAfrica;3
+743;307/7;500;6.14;;1;won;v South Africa;Melbourne;22/02/2015;ODI # 3610;India;6
+889;303/8;500;6.06;;1;won;v Scotland;Christchurch;23/02/2015;ODI # 3611;England;1
+45;372/2;500;7.44;;1;won;v Zimbabwe;Canberra;24/02/2015;ODI # 3612;WestIndies;4
+1231;211/9;493;4.26;211;2;won;v Scotland;Dunedin;26/02/2015;ODI # 3614;Afghanistan;40
+188;332/1;500;6.64;;1;won;v Bangladesh;Melbourne;26/02/2015;ODI # 3615;SriLanka;8
+1009;240;470;5.10;333;2;lost;v Sri Lanka;Melbourne;26/02/2015;ODI # 3615;Bangladesh;25
+46;151;331;4.55;409;2;lost;v South Africa;Sydney;27/02/2015;ODI # 3616;WestIndies;4
+332;408/5;500;8.16;;1;won;v West Indies;Sydney;27/02/2015;ODI # 3616;SouthAfrica;3
+598;152/9;231;6.56;152;2;won;v Australia;Auckland;28/02/2015;ODI # 3617;Newzealad;5
+1124;151;322;4.67;;1;lost;v New Zealand;Auckland;28/02/2015;ODI # 3617;Australia;2
+744;104/1;185;5.52;103;2;won;v U.A.E.;Perth;28/02/2015;ODI # 3618;India;6
+189;312/1;472;6.59;310;2;won;v England;Wellington;01/03/2015;ODI # 3619;SriLanka;8
+890;309/6;500;6.18;;1;lost;v Sri Lanka;Wellington;01/03/2015;ODI # 3619;England;1
+466;235/7;500;4.70;;1;won;v Zimbabwe;Brisbane;01/03/2015;ODI # 3620;Pakistan;7
+333;411/4;500;8.22;;1;won;v Ireland;Canberra;03/03/2015;ODI # 3621;SouthAfrica;3
+467;339/6;500;6.78;;1;won;v U.A.E.;Napier;04/03/2015;ODI # 3622;Pakistan;7
+1125;417/6;500;8.34;;1;won;v Afghanistan;Perth;04/03/2015;ODI # 3623;Australia;2
+1232;142;373;3.78;418;2;lost;v Australia;Perth;04/03/2015;ODI # 3623;Afghanistan;40
+1010;322/4;481;6.68;319;2;won;v Scotland;Nelson;05/03/2015;ODI # 3624;Bangladesh;25
+47;182;442;4.10;;1;lost;v India;Perth;06/03/2015;ODI # 3625;WestIndies;4
+745;185/6;391;4.72;183;2;won;v West Indies;Perth;06/03/2015;ODI # 3625;India;6
+334;202;333;6.02;232;2;lost;v Pakistan;Auckland;07/03/2015;ODI # 3626;SouthAfrica;3
+468;222;464;4.75;;1;won;v South Africa;Auckland;07/03/2015;ODI # 3626;Pakistan;7
+599;188/4;361;5.19;187;2;won;v Afghanistan;Napier;08/03/2015;ODI # 3628;Newzealad;5
+1233;186;474;3.90;;1;lost;v New Zealand;Napier;08/03/2015;ODI # 3628;Afghanistan;40
+190;312;462;6.73;377;2;lost;v Australia;Sydney;08/03/2015;ODI # 3629;SriLanka;8
+1126;376/9;500;7.52;;1;won;v Sri Lanka;Sydney;08/03/2015;ODI # 3629;Australia;2
+891;260;483;5.36;276;2;lost;v Bangladesh;Adelaide;09/03/2015;ODI # 3630;England;1
+1011;275/7;500;5.50;;1;won;v England;Adelaide;09/03/2015;ODI # 3630;Bangladesh;25
+746;260/2;365;7.05;260;2;won;v Ireland;Hamilton;10/03/2015;ODI # 3631;India;6
+191;363/9;500;7.26;;1;won;v Scotland;Hobart;11/03/2015;ODI # 3632;SriLanka;8
+335;341/6;500;6.82;;1;won;v U.A.E.;Wellington;12/03/2015;ODI # 3633;SouthAfrica;3
+600;290/7;485;5.93;289;2;won;v Bangladesh;Hamilton;13/03/2015;ODI # 3634;Newzealad;5
+1012;288/7;500;5.76;;1;lost;v New Zealand;Hamilton;13/03/2015;ODI # 3634;Bangladesh;25
+892;101/1;181;5.55;101;2;won;v Afghanistan;Sydney;13/03/2015;ODI # 3635;England;1
+1234;111/7;362;3.05;;1;lost;v England;Sydney;13/03/2015;ODI # 3635;Afghanistan;40
+747;288/4;484;5.91;288;2;won;v Zimbabwe;Auckland;14/03/2015;ODI # 3636;India;6
+1127;133/3;152;8.67;131;2;won;v Scotland;Hobart;14/03/2015;ODI # 3637;Australia;2
+48;176/4;303;5.77;176;2;won;v U.A.E.;Napier;15/03/2015;ODI # 3638;WestIndies;4
+469;241/3;461;5.22;238;2;won;v Ireland;Adelaide;15/03/2015;ODI # 3639;Pakistan;7
+192;133;372;3.56;;1;lost;v South Africa;Sydney;18/03/2015;ODI # 3640;SriLanka;8
+336;134/1;180;7.44;134;2;won;v Sri Lanka;Sydney;18/03/2015;ODI # 3640;SouthAfrica;3
+748;302/6;500;6.04;;1;won;v Bangladesh;Melbourne;19/03/2015;ODI # 3641;India;6
+1013;193;450;4.28;303;2;lost;v India;Melbourne;19/03/2015;ODI # 3641;Bangladesh;25
+470;213;495;4.27;;1;lost;v Australia;Adelaide;20/03/2015;ODI # 3642;Pakistan;7
+1128;216/4;335;6.38;214;2;won;v Pakistan;Adelaide;20/03/2015;ODI # 3642;Australia;2
+49;250;303;8.19;394;2;lost;v New Zealand;Wellington;21/03/2015;ODI # 3643;WestIndies;4
+601;393/6;500;7.86;;1;won;v West Indies;Wellington;21/03/2015;ODI # 3643;Newzealad;5
+337;281/5;430;6.53;;1;lost;v New Zealand;Auckland;24/03/2015;ODI # 3644;SouthAfrica;3
+602;299/6;425;6.98;298;2;won;v South Africa;Auckland;24/03/2015;ODI # 3644;Newzealad;5
+749;233;465;4.97;329;2;lost;v Australia;Sydney;26/03/2015;ODI # 3645;India;6
+1129;328/7;500;6.56;;1;won;v India;Sydney;26/03/2015;ODI # 3645;Australia;2
+603;183;450;4.06;;1;lost;v Australia;Melbourne;29/03/2015;ODI # 3646;Newzealad;5
+1130;186/3;331;5.60;184;2;won;v New Zealand;Melbourne;29/03/2015;ODI # 3646;Australia;2
+471;250;452;5.51;330;2;lost;v Bangladesh;Dhaka;17/04/2015;ODI # 3647;Pakistan;7
+1014;329/6;500;6.58;;1;won;v Pakistan;Dhaka;17/04/2015;ODI # 3647;Bangladesh;25
+472;239/6;500;4.78;;1;lost;v Bangladesh;Dhaka;19/04/2015;ODI # 3648;Pakistan;7
+1015;240/3;381;6.28;240;2;won;v Pakistan;Dhaka;19/04/2015;ODI # 3648;Bangladesh;25
+473;250;490;5.10;;1;lost;v Bangladesh;Dhaka;22/04/2015;ODI # 3649;Pakistan;7
+1016;251/2;393;6.35;251;2;won;v Pakistan;Dhaka;22/04/2015;ODI # 3649;Bangladesh;25
+893;DNB;0;-;;0;n/r;v Ireland;Dublin (Malahide);08/05/2015;ODI # 3650;England;1
+474;375/3;500;7.50;;1;won;v Zimbabwe;Lahore;26/05/2015;ODI # 3651;Pakistan;7
+475;269/4;472;5.68;269;2;won;v Zimbabwe;Lahore;29/05/2015;ODI # 3652;Pakistan;7
+476;296/9;500;5.92;;1;n/r;v Zimbabwe;Lahore;31/05/2015;ODI # 3653;Pakistan;7
+604;198;311;6.35;409;2;lost;v England;Birmingham;09/06/2015;ODI # 3654;Newzealad;5
+894;408/9;500;8.16;;1;won;v New Zealand;Birmingham;09/06/2015;ODI # 3654;England;1
+605;398/5;500;7.96;;1;won;v England;The Oval;12/06/2015;ODI # 3655;Newzealad;5
+895;365/9;460;7.93;379;2;lost;v New Zealand;The Oval;12/06/2015;ODI # 3655;England;1
+606;306/7;490;6.24;303;2;won;v England;Southampton;14/06/2015;ODI # 3656;Newzealad;5
+896;302;452;6.66;;1;lost;v New Zealand;Southampton;14/06/2015;ODI # 3656;England;1
+607;349/7;500;6.98;;1;lost;v England;Nottingham;17/06/2015;ODI # 3657;Newzealad;5
+897;350/3;440;7.95;350;2;won;v New Zealand;Nottingham;17/06/2015;ODI # 3657;England;1
+750;228;460;4.95;308;2;lost;v Bangladesh;Dhaka;18/06/2015;ODI # 3658;India;6
+1017;307;494;6.18;;1;won;v India;Dhaka;18/06/2015;ODI # 3658;Bangladesh;25
+608;283/9;500;5.66;;1;lost;v England;Chester-le-Street;20/06/2015;ODI # 3659;Newzealad;5
+898;192/7;250;7.68;192;2;won;v New Zealand;Chester-le-Street;20/06/2015;ODI # 3659;England;1
+751;200;450;4.44;;1;lost;v Bangladesh;Dhaka;21/06/2015;ODI # 3660;India;6
+1018;200/4;380;5.26;200;2;won;v India;Dhaka;21/06/2015;ODI # 3660;Bangladesh;25
+752;317/6;500;6.34;;1;won;v Bangladesh;Dhaka;24/06/2015;ODI # 3661;India;6
+1019;240;470;5.10;318;2;lost;v India;Dhaka;24/06/2015;ODI # 3661;Bangladesh;25
+753;255/6;500;5.10;;1;won;v Zimbabwe;Harare;10/07/2015;ODI # 3662;India;6
+338;164/2;311;5.26;161;2;won;v Bangladesh;Dhaka;10/07/2015;ODI # 3663;SouthAfrica;3
+1020;160;363;4.38;;1;lost;v South Africa;Dhaka;10/07/2015;ODI # 3663;Bangladesh;25
+193;255/8;500;5.10;;1;lost;v Pakistan;Dambulla;11/07/2015;ODI # 3664;SriLanka;8
+477;259/4;452;5.71;256;2;won;v Sri Lanka;Dambulla;11/07/2015;ODI # 3664;Pakistan;7
+754;271/8;500;5.42;;1;won;v Zimbabwe;Harare;12/07/2015;ODI # 3665;India;6
+339;162;460;3.52;;1;lost;v Bangladesh;Dhaka;12/07/2015;ODI # 3666;SouthAfrica;3
+1021;167/3;274;6.03;163;2;won;v South Africa;Dhaka;12/07/2015;ODI # 3666;Bangladesh;25
+755;276/5;500;5.52;;1;won;v Zimbabwe;Harare;14/07/2015;ODI # 3667;India;6
+340;168/9;400;4.20;;1;lost;v Bangladesh;Chattogram;15/07/2015;ODI # 3668;SouthAfrica;3
+1022;170/1;261;6.49;170;2;won;v South Africa;Chattogram;15/07/2015;ODI # 3668;Bangladesh;25
+194;288/8;481;5.97;288;2;won;v Pakistan;Pallekele;15/07/2015;ODI # 3669;SriLanka;8
+478;287/8;500;5.74;;1;lost;v Sri Lanka;Pallekele;15/07/2015;ODI # 3669;Pakistan;7
+195;181;411;4.39;317;2;lost;v Pakistan;Colombo (RPS);19/07/2015;ODI # 3670;SriLanka;8
+479;316/4;500;6.32;;1;won;v Sri Lanka;Colombo (RPS);19/07/2015;ODI # 3670;Pakistan;7
+196;256/9;500;5.12;;1;lost;v Pakistan;Colombo (RPS);22/07/2015;ODI # 3671;SriLanka;8
+480;257/3;405;6.29;257;2;won;v Sri Lanka;Colombo (RPS);22/07/2015;ODI # 3671;Pakistan;7
+197;368/4;500;7.36;;1;won;v Pakistan;Hambantota;26/07/2015;ODI # 3672;SriLanka;8
+481;203;372;5.43;369;2;lost;v Sri Lanka;Hambantota;26/07/2015;ODI # 3672;Pakistan;7
+609;303/4;500;6.06;;1;lost;v Zimbabwe;Harare;02/08/2015;ODI # 3673;Newzealad;5
+610;236/0;422;5.57;236;2;won;v Zimbabwe;Harare;04/08/2015;ODI # 3674;Newzealad;5
+611;273/6;500;5.46;;1;won;v Zimbabwe;Harare;07/08/2015;ODI # 3675;Newzealad;5
+341;304/7;500;6.08;;1;won;v New Zealand;Centurion;19/08/2015;ODI # 3676;SouthAfrica;3
+612;284;481;5.89;305;2;lost;v South Africa;Centurion;19/08/2015;ODI # 3676;Newzealad;5
+342;204;493;4.12;;1;lost;v New Zealand;Potchefstroom;23/08/2015;ODI # 3677;SouthAfrica;3
+613;207/2;443;4.65;205;2;won;v South Africa;Potchefstroom;23/08/2015;ODI # 3677;Newzealad;5
+343;283/7;500;5.66;;1;won;v New Zealand;Durban;26/08/2015;ODI # 3678;SouthAfrica;3
+614;221;492;4.47;284;2;lost;v South Africa;Durban;26/08/2015;ODI # 3678;Newzealad;5
+1131;222/6;402;5.50;;1;won;v Ireland;Belfast;27/08/2015;ODI # 3679;Australia;2
+899;246;453;5.40;306;2;lost;v Australia;Southampton;03/09/2015;ODI # 3680;England;1
+1132;305/6;500;6.10;;1;won;v England;Southampton;03/09/2015;ODI # 3680;Australia;2
+900;245;423;5.76;310;2;lost;v Australia;Lord's;05/09/2015;ODI # 3681;England;1
+1133;309/7;490;6.30;;1;won;v England;Lord's;05/09/2015;ODI # 3681;Australia;2
+901;300/8;500;6.00;;1;won;v Australia;Manchester;08/09/2015;ODI # 3682;England;1
+1134;207;440;4.70;301;2;lost;v England;Manchester;08/09/2015;ODI # 3682;Australia;2
+902;304/7;482;6.28;300;2;won;v Australia;Leeds;11/09/2015;ODI # 3683;England;1
+1135;299/7;500;5.98;;1;lost;v England;Leeds;11/09/2015;ODI # 3683;Australia;2
+903;138;330;4.18;;1;lost;v Australia;Manchester;13/09/2015;ODI # 3684;England;1
+1136;140/2;242;5.75;139;2;won;v England;Manchester;13/09/2015;ODI # 3684;Australia;2
+482;259/6;500;5.18;;1;won;v Zimbabwe;Harare;01/10/2015;ODI # 3685;Pakistan;7
+483;256/8;480;5.33;262;2;lost;v Zimbabwe;Harare;03/10/2015;ODI # 3686;Pakistan;7
+484;162/3;340;4.76;162;2;won;v Zimbabwe;Harare;05/10/2015;ODI # 3687;Pakistan;7
+344;303/5;500;6.06;;1;won;v India;Kanpur;11/10/2015;ODI # 3689;SouthAfrica;3
+756;298/7;500;5.96;304;2;lost;v South Africa;Kanpur;11/10/2015;ODI # 3689;India;6
+345;225;434;5.15;248;2;lost;v India;Indore;14/10/2015;ODI # 3692;SouthAfrica;3
+757;247/9;500;4.94;;1;won;v South Africa;Indore;14/10/2015;ODI # 3692;India;6
+1235;122;341;3.57;;1;lost;v Zimbabwe;Bulawayo;16/10/2015;ODI # 3693;Afghanistan;40
+1236;271/6;500;5.42;;1;won;v Zimbabwe;Bulawayo;18/10/2015;ODI # 3694;Afghanistan;40
+346;270/7;500;5.40;;1;won;v India;Rajkot;18/10/2015;ODI # 3695;SouthAfrica;3
+758;252/6;500;5.04;271;2;lost;v South Africa;Rajkot;18/10/2015;ODI # 3695;India;6
+1237;223/8;500;4.46;;1;lost;v Zimbabwe;Bulawayo;20/10/2015;ODI # 3696;Afghanistan;40
+1238;185/7;464;3.96;185;2;won;v Zimbabwe;Bulawayo;22/10/2015;ODI # 3697;Afghanistan;40
+347;264/9;500;5.28;300;2;lost;v India;Chennai;22/10/2015;ODI # 3698;SouthAfrica;3
+759;299/8;500;5.98;;1;won;v South Africa;Chennai;22/10/2015;ODI # 3698;India;6
+1239;245/9;500;4.90;;1;won;v Zimbabwe;Bulawayo;24/10/2015;ODI # 3699;Afghanistan;40
+348;438/4;500;8.76;;1;won;v India;Mumbai;25/10/2015;ODI # 3700;SouthAfrica;3
+760;224;360;6.22;439;2;lost;v South Africa;Mumbai;25/10/2015;ODI # 3700;India;6
+50;159/8;260;6.11;;1;lost;v Sri Lanka;Colombo (RPS);01/11/2015;ODI # 3701;WestIndies;4
+198;164/9;245;6.60;163;2;won;v West Indies;Colombo (RPS);01/11/2015;ODI # 3701;SriLanka;8
+51;214;374;5.68;;1;lost;v Sri Lanka;Colombo (RPS);04/11/2015;ODI # 3702;WestIndies;4
+199;225/2;363;6.16;225;2;won;v West Indies;Colombo (RPS);04/11/2015;ODI # 3702;SriLanka;8
+1023;273/9;500;5.46;;1;won;v Zimbabwe;Dhaka;07/11/2015;ODI # 3703;Bangladesh;25
+52;206/9;360;5.72;;1;lost;v Sri Lanka;Pallekele;07/11/2015;ODI # 3704;WestIndies;4
+200;180/5;323;5.53;162;2;won;v West Indies;Pallekele;07/11/2015;ODI # 3704;SriLanka;8
+1024;241/9;500;4.82;;1;won;v Zimbabwe;Dhaka;09/11/2015;ODI # 3705;Bangladesh;25
+1025;276/9;500;5.52;;1;won;v Zimbabwe;Dhaka;11/11/2015;ODI # 3706;Bangladesh;25
+485;217/4;434;4.96;217;2;won;v England;Abu Dhabi;11/11/2015;ODI # 3707;Pakistan;7
+904;216;494;4.34;;1;lost;v Pakistan;Abu Dhabi;11/11/2015;ODI # 3707;England;1
+486;188;455;4.10;284;2;lost;v England;Abu Dhabi;13/11/2015;ODI # 3708;Pakistan;7
+905;283/5;500;5.66;;1;won;v Pakistan;Abu Dhabi;13/11/2015;ODI # 3708;England;1
+487;208;495;4.17;;1;lost;v England;Sharjah;17/11/2015;ODI # 3710;Pakistan;7
+906;210/4;410;5.12;209;2;won;v Pakistan;Sharjah;17/11/2015;ODI # 3710;England;1
+488;271;404;6.66;356;2;lost;v England;Dubai (DSC);20/11/2015;ODI # 3712;Pakistan;7
+907;355/5;500;7.10;;1;won;v Pakistan;Dubai (DSC);20/11/2015;ODI # 3712;England;1
+1240;131;385;3.37;;1;won;v Zimbabwe;Sharjah;25/12/2015;ODI # 3713;Afghanistan;40
+201;188;470;4.00;;1;lost;v New Zealand;Christchurch;26/12/2015;ODI # 3714;SriLanka;8
+615;191/3;210;9.09;189;2;won;v Sri Lanka;Christchurch;26/12/2015;ODI # 3714;Newzealad;5
+202;117;274;4.22;;1;lost;v New Zealand;Christchurch;28/12/2015;ODI # 3715;SriLanka;8
+616;118/0;82;14.16;118;2;won;v Sri Lanka;Christchurch;28/12/2015;ODI # 3715;Newzealad;5
+1241;254/6;474;5.32;254;2;won;v Zimbabwe;Sharjah;29/12/2015;ODI # 3716;Afghanistan;40
+203;277/2;462;5.97;277;2;won;v New Zealand;Nelson;31/12/2015;ODI # 3717;SriLanka;8
+617;276/8;500;5.52;;1;lost;v Sri Lanka;Nelson;31/12/2015;ODI # 3717;Newzealad;5
+204;DNB;0;-;;0;n/r;v New Zealand;Nelson;02/01/2016;ODI # 3718;SriLanka;8
+618;75/3;90;8.33;;1;n/r;v Sri Lanka;Nelson;02/01/2016;ODI # 3718;Newzealad;5
+1242;58;161;3.58;176;2;lost;v Zimbabwe;Sharjah;02/01/2016;ODI # 3719;Afghanistan;40
+1243;161;450;3.57;227;2;lost;v Zimbabwe;Sharjah;04/01/2016;ODI # 3720;Afghanistan;40
+205;258;471;5.46;295;2;lost;v New Zealand;Mount Maunganui;05/01/2016;ODI # 3721;SriLanka;8
+619;294/5;500;5.88;;1;won;v Sri Lanka;Mount Maunganui;05/01/2016;ODI # 3721;Newzealad;5
+1244;254/8;494;5.11;249;2;won;v Zimbabwe;Sharjah;06/01/2016;ODI # 3722;Afghanistan;40
+761;309/3;500;6.18;;1;lost;v Australia;Perth;12/01/2016;ODI # 3723;India;6
+1137;310/5;492;6.28;310;2;won;v India;Perth;12/01/2016;ODI # 3723;Australia;2
+762;308/8;500;6.16;;1;lost;v Australia;Brisbane;15/01/2016;ODI # 3724;India;6
+1138;309/3;490;6.30;309;2;won;v India;Brisbane;15/01/2016;ODI # 3724;Australia;2
+763;295/6;500;5.90;;1;lost;v Australia;Melbourne;17/01/2016;ODI # 3725;India;6
+1139;296/7;485;6.06;296;2;won;v India;Melbourne;17/01/2016;ODI # 3725;Australia;2
+764;323;492;6.54;349;2;lost;v Australia;Canberra;20/01/2016;ODI # 3726;India;6
+1140;348/8;500;6.96;;1;won;v India;Canberra;20/01/2016;ODI # 3726;Australia;2
+765;331/4;494;6.66;331;2;won;v Australia;Sydney;23/01/2016;ODI # 3727;India;6
+1141;330/7;500;6.60;;1;lost;v India;Sydney;23/01/2016;ODI # 3727;Australia;2
+489;210;460;4.56;281;2;lost;v New Zealand;Wellington;25/01/2016;ODI # 3728;Pakistan;7
+620;280/8;500;5.60;;1;won;v Pakistan;Wellington;25/01/2016;ODI # 3728;Newzealad;5
+490;290;473;6.10;;1;lost;v New Zealand;Auckland;31/01/2016;ODI # 3730;Pakistan;7
+621;265/7;424;6.21;263;2;won;v Pakistan;Auckland;31/01/2016;ODI # 3730;Newzealad;5
+622;307/8;500;6.14;;1;won;v Australia;Auckland;03/02/2016;ODI # 3731;Newzealad;5
+1142;148;242;6.08;308;2;lost;v New Zealand;Auckland;03/02/2016;ODI # 3731;Australia;2
+349;250/5;333;7.46;290;2;lost;v England;Bloemfontein;03/02/2016;ODI # 3732;SouthAfrica;3
+908;399/9;500;7.98;;1;won;v South Africa;Bloemfontein;03/02/2016;ODI # 3732;England;1
+623;281/9;500;5.62;;1;lost;v Australia;Wellington;06/02/2016;ODI # 3733;Newzealad;5
+1143;283/6;463;6.08;282;2;won;v New Zealand;Wellington;06/02/2016;ODI # 3733;Australia;2
+350;262/7;500;5.24;;1;lost;v England;Port Elizabeth;06/02/2016;ODI # 3734;SouthAfrica;3
+909;263/5;462;5.67;263;2;won;v South Africa;Port Elizabeth;06/02/2016;ODI # 3734;England;1
+624;246;453;5.40;;1;won;v Australia;Hamilton;08/02/2016;ODI # 3735;Newzealad;5
+1144;191;434;4.37;247;2;lost;v New Zealand;Hamilton;08/02/2016;ODI # 3735;Australia;2
+351;319/3;462;6.88;319;2;won;v England;Centurion;09/02/2016;ODI # 3736;SouthAfrica;3
+910;318/8;500;6.36;;1;lost;v South Africa;Centurion;09/02/2016;ODI # 3736;England;1
+352;266/9;472;5.61;263;2;won;v England;Johannesburg;12/02/2016;ODI # 3737;SouthAfrica;3
+911;262;475;5.47;;1;lost;v South Africa;Johannesburg;12/02/2016;ODI # 3737;England;1
+353;237/5;440;5.38;237;2;won;v England;Cape Town;14/02/2016;ODI # 3738;SouthAfrica;3
+912;236;450;5.24;;1;lost;v South Africa;Cape Town;14/02/2016;ODI # 3738;England;1
+53;191/6;481;3.96;189;2;won;v South Africa;Providence;03/06/2016;ODI # 3739;WestIndies;4
+354;188;465;4.01;;1;lost;v West Indies;Providence;03/06/2016;ODI # 3739;SouthAfrica;3
+54;116;323;3.56;;1;lost;v Australia;Providence;05/06/2016;ODI # 3740;WestIndies;4
+1145;117/4;254;4.55;117;2;won;v West Indies;Providence;05/06/2016;ODI # 3740;Australia;2
+355;189/9;500;3.78;;1;won;v Australia;Providence;07/06/2016;ODI # 3741;SouthAfrica;3
+1146;142;342;4.13;190;2;lost;v South Africa;Providence;07/06/2016;ODI # 3741;Australia;2
+766;173/1;423;4.07;169;2;won;v Zimbabwe;Harare;11/06/2016;ODI # 3742;India;6
+356;252;474;5.28;289;2;lost;v Australia;Basseterre;11/06/2016;ODI # 3743;SouthAfrica;3
+1147;288/6;500;5.76;;1;won;v South Africa;Basseterre;11/06/2016;ODI # 3743;Australia;2
+767;129/2;265;4.80;127;2;won;v Zimbabwe;Harare;13/06/2016;ODI # 3744;India;6
+55;266/6;454;5.82;266;2;won;v Australia;Basseterre;13/06/2016;ODI # 3745;WestIndies;4
+1148;265/7;500;5.30;;1;lost;v West Indies;Basseterre;13/06/2016;ODI # 3745;Australia;2
+768;126/0;215;5.77;124;2;won;v Zimbabwe;Harare;15/06/2016;ODI # 3746;India;6
+56;204;380;5.36;344;2;lost;v South Africa;Basseterre;15/06/2016;ODI # 3747;WestIndies;4
+357;343/4;500;6.86;;1;won;v West Indies;Basseterre;15/06/2016;ODI # 3747;SouthAfrica;3
+206;303/7;500;6.06;;1;won;v Ireland;Dublin (Malahide);16/06/2016;ODI # 3748;SriLanka;8
+207;377/8;500;7.54;;1;won;v Ireland;Dublin (Malahide);18/06/2016;ODI # 3749;SriLanka;8
+358;8/0;10;8.00;;1;n/r;v Australia;Bridgetown;19/06/2016;ODI # 3750;SouthAfrica;3
+1149;DNB;0;-;;0;n/r;v South Africa;Bridgetown;19/06/2016;ODI # 3750;Australia;2
+208;286/9;500;5.72;;1;tied;v England;Nottingham;21/06/2016;ODI # 3751;SriLanka;8
+913;286/8;500;5.72;287;2;tied;v Sri Lanka;Nottingham;21/06/2016;ODI # 3751;England;1
+57;282/8;500;5.64;;1;lost;v Australia;Bridgetown;21/06/2016;ODI # 3752;WestIndies;4
+1150;283/4;484;5.81;283;2;won;v West Indies;Bridgetown;21/06/2016;ODI # 3752;Australia;2
+209;254/7;500;5.08;;1;lost;v England;Birmingham;24/06/2016;ODI # 3753;SriLanka;8
+914;256/0;341;7.49;255;2;won;v Sri Lanka;Birmingham;24/06/2016;ODI # 3753;England;1
+58;285;495;5.71;;1;won;v South Africa;Bridgetown;24/06/2016;ODI # 3754;WestIndies;4
+359;185;460;4.02;286;2;lost;v West Indies;Bridgetown;24/06/2016;ODI # 3754;SouthAfrica;3
+210;248/9;500;4.96;;1;n/r;v England;Bristol;26/06/2016;ODI # 3755;SriLanka;8
+915;16/1;40;4.00;249;2;n/r;v Sri Lanka;Bristol;26/06/2016;ODI # 3755;England;1
+59;212;454;4.64;271;2;lost;v Australia;Bridgetown;26/06/2016;ODI # 3756;WestIndies;4
+1151;270/9;500;5.40;;1;won;v West Indies;Bridgetown;26/06/2016;ODI # 3756;Australia;2
+211;305/5;420;7.26;;1;lost;v England;The Oval;29/06/2016;ODI # 3757;SriLanka;8
+916;309/4;401;7.69;308;2;won;v Sri Lanka;The Oval;29/06/2016;ODI # 3757;England;1
+212;202;424;4.73;325;2;lost;v England;Cardiff;02/07/2016;ODI # 3758;SriLanka;8
+917;324/7;500;6.48;;1;won;v Sri Lanka;Cardiff;02/07/2016;ODI # 3758;England;1
+1245;283/4;472;5.97;;1;n/r;v Scotland;Edinburgh;04/07/2016;ODI # 3759;Afghanistan;40
+1246;178/6;372;4.76;;1;won;v Scotland;Edinburgh;06/07/2016;ODI # 3760;Afghanistan;40
+1247;250;492;5.06;;1;won;v Ireland;Belfast;12/07/2016;ODI # 3761;Afghanistan;40
+1248;236;491;4.80;;1;lost;v Ireland;Belfast;14/07/2016;ODI # 3762;Afghanistan;40
+1249;229/7;500;4.58;;1;won;v Ireland;Belfast;17/07/2016;ODI # 3763;Afghanistan;40
+1250;253/9;500;5.06;266;2;lost;v Ireland;Belfast;19/07/2016;ODI # 3764;Afghanistan;40
+491;337/6;470;7.17;;1;won;v Ireland;Dublin (Malahide);18/08/2016;ODI # 3767;Pakistan;7
+213;227/8;500;4.54;;1;lost;v Australia;Colombo (RPS);21/08/2016;ODI # 3768;SriLanka;8
+1152;228/7;465;4.86;228;2;won;v Sri Lanka;Colombo (RPS);21/08/2016;ODI # 3768;Australia;2
+214;288;485;5.89;;1;won;v Australia;Colombo (RPS);24/08/2016;ODI # 3769;SriLanka;8
+1153;206;472;4.35;289;2;lost;v Sri Lanka;Colombo (RPS);24/08/2016;ODI # 3769;Australia;2
+492;260/6;500;5.20;;1;lost;v England;Southampton;24/08/2016;ODI # 3770;Pakistan;7
+918;194/3;343;5.62;151;2;won;v Pakistan;Southampton;24/08/2016;ODI # 3770;England;1
+493;251;495;5.03;;1;lost;v England;Lord's;27/08/2016;ODI # 3771;Pakistan;7
+919;255/6;473;5.36;252;2;won;v Pakistan;Lord's;27/08/2016;ODI # 3771;England;1
+215;226;492;4.58;;1;lost;v Australia;Dambulla;28/08/2016;ODI # 3772;SriLanka;8
+1154;227/8;460;4.93;227;2;won;v Sri Lanka;Dambulla;28/08/2016;ODI # 3772;Australia;2
+494;275;424;6.44;445;2;lost;v England;Nottingham;30/08/2016;ODI # 3773;Pakistan;7
+920;444/3;500;8.88;;1;won;v Pakistan;Nottingham;30/08/2016;ODI # 3773;England;1
+216;212;500;4.24;;1;lost;v Australia;Dambulla;31/08/2016;ODI # 3774;SriLanka;8
+1155;217/4;310;7.00;213;2;won;v Sri Lanka;Dambulla;31/08/2016;ODI # 3774;Australia;2
+495;247/8;500;4.94;;1;lost;v England;Leeds;01/09/2016;ODI # 3775;Pakistan;7
+921;252/6;480;5.25;248;2;won;v Pakistan;Leeds;01/09/2016;ODI # 3775;England;1
+217;195;402;4.83;;1;lost;v Australia;Pallekele;04/09/2016;ODI # 3776;SriLanka;8
+1156;199/5;430;4.62;196;2;won;v Sri Lanka;Pallekele;04/09/2016;ODI # 3776;Australia;2
+496;304/6;482;6.28;303;2;won;v England;Cardiff;04/09/2016;ODI # 3777;Pakistan;7
+922;302/9;500;6.04;;1;lost;v Pakistan;Cardiff;04/09/2016;ODI # 3777;England;1
+360;354/5;500;7.08;;1;won;v Ireland;Benoni;25/09/2016;ODI # 3780;SouthAfrica;3
+1026;265;500;5.30;;1;won;v Afghanistan;Dhaka;25/09/2016;ODI # 3781;Bangladesh;25
+1251;258;500;5.16;266;2;lost;v Bangladesh;Dhaka;25/09/2016;ODI # 3781;Afghanistan;40
+1157;199/1;301;6.59;199;2;won;v Ireland;Benoni;27/09/2016;ODI # 3782;Australia;2
+1027;208;492;4.21;;1;lost;v Afghanistan;Dhaka;28/09/2016;ODI # 3783;Bangladesh;25
+1252;212/8;494;4.26;209;2;won;v Bangladesh;Dhaka;28/09/2016;ODI # 3783;Afghanistan;40
+60;175;384;4.52;287;2;lost;v Pakistan;Sharjah;30/09/2016;ODI # 3784;WestIndies;4
+497;284/9;490;5.79;;1;won;v West Indies;Sharjah;30/09/2016;ODI # 3784;Pakistan;7
+361;295/4;362;8.11;295;2;won;v Australia;Centurion;30/09/2016;ODI # 3785;SouthAfrica;3
+1158;294/9;500;5.88;;1;lost;v South Africa;Centurion;30/09/2016;ODI # 3785;Australia;2
+1028;279/8;500;5.58;;1;won;v Afghanistan;Dhaka;01/10/2016;ODI # 3786;Bangladesh;25
+1253;138;335;4.07;280;2;lost;v Bangladesh;Dhaka;01/10/2016;ODI # 3786;Afghanistan;40
+362;361/6;500;7.22;;1;won;v Australia;Johannesburg;02/10/2016;ODI # 3787;SouthAfrica;3
+1159;219;374;5.81;362;2;lost;v South Africa;Johannesburg;02/10/2016;ODI # 3787;Australia;2
+61;278/7;500;5.56;338;2;lost;v Pakistan;Sharjah;02/10/2016;ODI # 3788;WestIndies;4
+498;337/5;500;6.74;;1;won;v West Indies;Sharjah;02/10/2016;ODI # 3788;Pakistan;7
+62;172;440;3.90;309;2;lost;v Pakistan;Abu Dhabi;05/10/2016;ODI # 3789;WestIndies;4
+499;308/6;500;6.16;;1;won;v West Indies;Abu Dhabi;05/10/2016;ODI # 3789;Pakistan;7
+363;372/6;492;7.54;372;2;won;v Australia;Durban;05/10/2016;ODI # 3790;SouthAfrica;3
+1160;371/6;500;7.42;;1;lost;v South Africa;Durban;05/10/2016;ODI # 3790;Australia;2
+923;309/8;500;6.18;;1;won;v Bangladesh;Dhaka;07/10/2016;ODI # 3791;England;1
+1029;288;475;6.02;310;2;lost;v England;Dhaka;07/10/2016;ODI # 3791;Bangladesh;25
+364;168/4;353;4.73;168;2;won;v Australia;Port Elizabeth;09/10/2016;ODI # 3792;SouthAfrica;3
+1161;167;364;4.55;;1;lost;v South Africa;Port Elizabeth;09/10/2016;ODI # 3792;Australia;2
+924;204;444;4.56;239;2;lost;v Bangladesh;Dhaka;09/10/2016;ODI # 3793;England;1
+1030;238/8;500;4.76;;1;won;v England;Dhaka;09/10/2016;ODI # 3793;Bangladesh;25
+925;278/6;475;5.81;278;2;won;v Bangladesh;Chattogram;12/10/2016;ODI # 3794;England;1
+1031;277/6;500;5.54;;1;lost;v England;Chattogram;12/10/2016;ODI # 3794;Bangladesh;25
+365;327/8;500;6.54;;1;won;v Australia;Cape Town;12/10/2016;ODI # 3795;SouthAfrica;3
+1162;296;482;6.12;328;2;lost;v South Africa;Cape Town;12/10/2016;ODI # 3795;Australia;2
+625;190;435;4.33;;1;lost;v India;Dharamsala;16/10/2016;ODI # 3796;Newzealad;5
+769;194/4;331;5.84;191;2;won;v New Zealand;Dharamsala;16/10/2016;ODI # 3796;India;6
+626;242/9;500;4.84;;1;won;v India;Delhi;20/10/2016;ODI # 3797;Newzealad;5
+770;236;493;4.76;243;2;lost;v New Zealand;Delhi;20/10/2016;ODI # 3797;India;6
+627;285;494;5.73;;1;lost;v India;Mohali;23/10/2016;ODI # 3798;Newzealad;5
+771;289/3;482;5.97;286;2;won;v New Zealand;Mohali;23/10/2016;ODI # 3798;India;6
+628;260/7;500;5.20;;1;won;v India;Ranchi;26/10/2016;ODI # 3799;Newzealad;5
+772;241;484;4.95;261;2;lost;v New Zealand;Ranchi;26/10/2016;ODI # 3799;India;6
+629;79;231;3.41;270;2;lost;v India;Visakhapatnam;29/10/2016;ODI # 3800;Newzealad;5
+773;269/6;500;5.38;;1;won;v New Zealand;Visakhapatnam;29/10/2016;ODI # 3800;India;6
+218;155/2;243;6.32;155;2;won;v Zimbabwe;Harare;14/11/2016;ODI # 3804;SriLanka;8
+63;227;492;4.60;;1;won;v Sri Lanka;Harare;16/11/2016;ODI # 3805;WestIndies;4
+219;165;431;3.82;228;2;lost;v West Indies;Harare;16/11/2016;ODI # 3805;SriLanka;8
+64;257/8;500;5.14;258;2;tied;v Zimbabwe;Bulawayo;19/11/2016;ODI # 3806;WestIndies;4
+220;DNB;0;-;;0;n/r;v Zimbabwe;Bulawayo;21/11/2016;ODI # 3807;SriLanka;8
+65;329/9;500;6.58;331;2;lost;v Sri Lanka;Bulawayo;23/11/2016;ODI # 3808;WestIndies;4
+221;330/7;500;6.60;;1;won;v West Indies;Bulawayo;23/11/2016;ODI # 3808;SriLanka;8
+66;124/5;273;4.50;130;2;lost;v Zimbabwe;Bulawayo;25/11/2016;ODI # 3809;WestIndies;4
+222;166/4;373;4.42;161;2;won;v Zimbabwe;Bulawayo;27/11/2016;ODI # 3810;SriLanka;8
+630;256;442;5.77;325;2;lost;v Australia;Sydney;04/12/2016;ODI # 3811;Newzealad;5
+1163;324/8;500;6.48;;1;won;v New Zealand;Sydney;04/12/2016;ODI # 3811;Australia;2
+631;262;472;5.53;379;2;lost;v Australia;Canberra;06/12/2016;ODI # 3812;Newzealad;5
+1164;378/5;500;7.56;;1;won;v New Zealand;Canberra;06/12/2016;ODI # 3812;Australia;2
+632;147;361;4.06;265;2;lost;v Australia;Melbourne;09/12/2016;ODI # 3813;Newzealad;5
+1165;264/8;500;5.28;;1;won;v New Zealand;Melbourne;09/12/2016;ODI # 3813;Australia;2
+633;341/7;500;6.82;;1;won;v Bangladesh;Christchurch;26/12/2016;ODI # 3814;Newzealad;5
+1032;264;445;5.88;342;2;lost;v New Zealand;Christchurch;26/12/2016;ODI # 3814;Bangladesh;25
+634;251;500;5.02;;1;won;v Bangladesh;Nelson;29/12/2016;ODI # 3815;Newzealad;5
+1033;184;424;4.31;252;2;lost;v New Zealand;Nelson;29/12/2016;ODI # 3815;Bangladesh;25
+635;239/2;412;5.78;237;2;won;v Bangladesh;Nelson;31/12/2016;ODI # 3816;Newzealad;5
+1034;236/9;500;4.72;;1;lost;v New Zealand;Nelson;31/12/2016;ODI # 3816;Bangladesh;25
+500;176;424;4.12;269;2;lost;v Australia;Brisbane;13/01/2017;ODI # 3817;Pakistan;7
+1166;268/9;500;5.36;;1;won;v Pakistan;Brisbane;13/01/2017;ODI # 3817;Australia;2
+501;221/4;474;4.63;221;2;won;v Australia;Melbourne;15/01/2017;ODI # 3818;Pakistan;7
+1167;220;482;4.55;;1;lost;v Pakistan;Melbourne;15/01/2017;ODI # 3818;Australia;2
+774;356/7;481;7.39;351;2;won;v England;Pune;15/01/2017;ODI # 3819;India;6
+926;350/7;500;7.00;;1;lost;v India;Pune;15/01/2017;ODI # 3819;England;1
+502;263/7;500;5.26;;1;lost;v Australia;Perth;19/01/2017;ODI # 3820;Pakistan;7
+1168;265/3;450;5.88;264;2;won;v Pakistan;Perth;19/01/2017;ODI # 3820;Australia;2
+775;381/6;500;7.62;;1;won;v England;Cuttack;19/01/2017;ODI # 3821;India;6
+927;366/8;500;7.32;382;2;lost;v India;Cuttack;19/01/2017;ODI # 3821;England;1
+503;267;435;6.09;354;2;lost;v Australia;Sydney;22/01/2017;ODI # 3822;Pakistan;7
+1169;353/6;500;7.06;;1;won;v Pakistan;Sydney;22/01/2017;ODI # 3822;Australia;2
+776;316/9;500;6.32;322;2;lost;v England;Kolkata;22/01/2017;ODI # 3824;India;6
+928;321/8;500;6.42;;1;won;v India;Kolkata;22/01/2017;ODI # 3824;England;1
+504;312;491;6.34;370;2;lost;v Australia;Adelaide;26/01/2017;ODI # 3826;Pakistan;7
+1170;369/7;500;7.38;;1;won;v Pakistan;Adelaide;26/01/2017;ODI # 3826;Australia;2
+223;181;483;3.73;;1;lost;v South Africa;Port Elizabeth;28/01/2017;ODI # 3828;SriLanka;8
+366;185/2;342;5.38;182;2;won;v Sri Lanka;Port Elizabeth;28/01/2017;ODI # 3828;SouthAfrica;3
+636;286/9;500;5.72;;1;won;v Australia;Auckland;30/01/2017;ODI # 3829;Newzealad;5
+1171;280;470;5.95;287;2;lost;v New Zealand;Auckland;30/01/2017;ODI # 3829;Australia;2
+224;186;375;4.91;308;2;lost;v South Africa;Durban;01/02/2017;ODI # 3830;SriLanka;8
+367;307/6;500;6.14;;1;won;v Sri Lanka;Durban;01/02/2017;ODI # 3830;SouthAfrica;3
+225;163;392;4.14;;1;lost;v South Africa;Johannesburg;04/02/2017;ODI # 3831;SriLanka;8
+368;164/3;320;5.12;164;2;won;v Sri Lanka;Johannesburg;04/02/2017;ODI # 3831;SouthAfrica;3
+637;281/9;500;5.62;;1;won;v Australia;Hamilton;05/02/2017;ODI # 3832;Newzealad;5
+1172;257;470;5.46;282;2;lost;v New Zealand;Hamilton;05/02/2017;ODI # 3832;Australia;2
+226;327;481;6.78;368;2;lost;v South Africa;Cape Town;07/02/2017;ODI # 3833;SriLanka;8
+369;367/5;500;7.34;;1;won;v Sri Lanka;Cape Town;07/02/2017;ODI # 3833;SouthAfrica;3
+227;296/8;500;5.92;385;2;lost;v South Africa;Centurion;10/02/2017;ODI # 3834;SriLanka;8
+370;384/6;500;7.68;;1;won;v Sri Lanka;Centurion;10/02/2017;ODI # 3834;SouthAfrica;3
+1254;215;492;4.35;;1;won;v Zimbabwe;Harare;16/02/2017;ODI # 3835;Afghanistan;40
+371;210/6;335;6.20;208;2;won;v New Zealand;Hamilton;19/02/2017;ODI # 3836;SouthAfrica;3
+638;207/7;340;6.08;;1;lost;v South Africa;Hamilton;19/02/2017;ODI # 3836;Newzealad;5
+1255;238/9;500;4.76;;1;won;v Zimbabwe;Harare;19/02/2017;ODI # 3837;Afghanistan;40
+1256;126;293;4.27;130;2;lost;v Zimbabwe;Harare;21/02/2017;ODI # 3838;Afghanistan;40
+372;283/9;500;5.66;290;2;lost;v New Zealand;Christchurch;22/02/2017;ODI # 3839;SouthAfrica;3
+639;289/4;500;5.78;;1;won;v South Africa;Christchurch;22/02/2017;ODI # 3839;Newzealad;5
+1257;111;385;2.85;;1;lost;v Zimbabwe;Harare;24/02/2017;ODI # 3840;Afghanistan;40
+373;271/8;500;5.42;;1;won;v New Zealand;Wellington;25/02/2017;ODI # 3841;SouthAfrica;3
+640;112;322;3.46;272;2;lost;v South Africa;Wellington;25/02/2017;ODI # 3841;Newzealad;5
+1258;253/9;500;5.06;;1;won;v Zimbabwe;Harare;26/02/2017;ODI # 3842;Afghanistan;40
+374;279/8;500;5.58;;1;lost;v New Zealand;Hamilton;01/03/2017;ODI # 3843;SouthAfrica;3
+641;280/3;450;6.22;280;2;won;v South Africa;Hamilton;01/03/2017;ODI # 3843;Newzealad;5
+67;251;472;5.30;297;2;lost;v England;North Sound;03/03/2017;ODI # 3845;WestIndies;4
+929;296/6;500;5.92;;1;won;v West Indies;North Sound;03/03/2017;ODI # 3845;England;1
+375;150/4;322;4.63;150;2;won;v New Zealand;Auckland;04/03/2017;ODI # 3846;SouthAfrica;3
+642;149;411;3.61;;1;lost;v South Africa;Auckland;04/03/2017;ODI # 3846;Newzealad;5
+68;225;475;4.70;;1;lost;v England;North Sound;05/03/2017;ODI # 3848;WestIndies;4
+930;226/6;482;4.67;226;2;won;v West Indies;North Sound;05/03/2017;ODI # 3848;England;1
+69;142;392;3.61;329;2;lost;v England;Bridgetown;09/03/2017;ODI # 3849;WestIndies;4
+931;328;500;6.56;;1;won;v West Indies;Bridgetown;09/03/2017;ODI # 3849;England;1
+1259;292/7;500;5.84;;1;won;v Ireland;Greater Noida;15/03/2017;ODI # 3850;Afghanistan;40
+1260;338;500;6.76;;1;won;v Ireland;Greater Noida;17/03/2017;ODI # 3851;Afghanistan;40
+1261;264/8;500;5.28;;1;lost;v Ireland;Greater Noida;19/03/2017;ODI # 3852;Afghanistan;40
+1262;220;495;4.41;;1;lost;v Ireland;Greater Noida;22/03/2017;ODI # 3853;Afghanistan;40
+1263;231/3;484;4.74;230;2;won;v Ireland;Greater Noida;24/03/2017;ODI # 3854;Afghanistan;40
+228;234;451;5.18;325;2;lost;v Bangladesh;Dambulla;25/03/2017;ODI # 3855;SriLanka;8
+1035;324/5;500;6.48;;1;won;v Sri Lanka;Dambulla;25/03/2017;ODI # 3855;Bangladesh;25
+229;311;495;6.24;;1;n/r;v Bangladesh;Dambulla;28/03/2017;ODI # 3856;SriLanka;8
+1036;DNB;0;-;;0;n/r;v Sri Lanka;Dambulla;28/03/2017;ODI # 3856;Bangladesh;25
+230;280/9;500;5.60;;1;won;v Bangladesh;Colombo (SSC);01/04/2017;ODI # 3858;SriLanka;8
+1037;210;443;4.71;281;2;lost;v Sri Lanka;Colombo (SSC);01/04/2017;ODI # 3858;Bangladesh;25
+70;309/6;490;6.30;309;2;won;v Pakistan;Providence;07/04/2017;ODI # 3861;WestIndies;4
+505;308/5;500;6.16;;1;lost;v West Indies;Providence;07/04/2017;ODI # 3861;Pakistan;7
+71;208;445;4.63;283;2;lost;v Pakistan;Providence;09/04/2017;ODI # 3862;WestIndies;4
+506;282/5;500;5.64;;1;won;v West Indies;Providence;09/04/2017;ODI # 3862;Pakistan;7
+72;233/9;500;4.66;;1;lost;v Pakistan;Providence;11/04/2017;ODI # 3863;WestIndies;4
+507;236/4;431;5.46;234;2;won;v West Indies;Providence;11/04/2017;ODI # 3863;Pakistan;7
+932;127/3;200;6.35;127;2;won;v Ireland;Bristol;05/05/2017;ODI # 3864;England;1
+933;328/6;500;6.56;;1;won;v Ireland;Lord's;07/05/2017;ODI # 3865;England;1
+1038;157/4;311;5.03;;1;n/r;v Ireland;Dublin (Malahide);12/05/2017;ODI # 3866;Bangladesh;25
+643;289/7;500;5.78;;1;won;v Ireland;Dublin (Malahide);14/05/2017;ODI # 3867;Newzealad;5
+644;258/6;473;5.43;258;2;won;v Bangladesh;Dublin;17/05/2017;ODI # 3868;Newzealad;5
+1039;257/9;500;5.14;;1;lost;v New Zealand;Dublin;17/05/2017;ODI # 3868;Bangladesh;25
+1040;182/2;271;6.69;182;2;won;v Ireland;Dublin (Malahide);19/05/2017;ODI # 3869;Bangladesh;25
+645;344/6;500;6.88;;1;won;v Ireland;Dublin (Malahide);21/05/2017;ODI # 3870;Newzealad;5
+646;270/8;500;5.40;;1;lost;v Bangladesh;Dublin;24/05/2017;ODI # 3871;Newzealad;5
+1041;271/5;482;5.60;271;2;won;v New Zealand;Dublin;24/05/2017;ODI # 3871;Bangladesh;25
+376;267;450;5.93;340;2;lost;v England;Leeds;24/05/2017;ODI # 3872;SouthAfrica;3
+934;339/6;500;6.78;;1;won;v South Africa;Leeds;24/05/2017;ODI # 3872;England;1
+377;328/5;500;6.56;331;2;lost;v England;Southampton;27/05/2017;ODI # 3873;SouthAfrica;3
+935;330/6;500;6.60;;1;won;v South Africa;Southampton;27/05/2017;ODI # 3873;England;1
+378;156/3;285;5.41;154;2;won;v England;Lord's;29/05/2017;ODI # 3874;SouthAfrica;3
+936;153;311;4.90;;1;lost;v South Africa;Lord's;29/05/2017;ODI # 3874;England;1
+937;308/2;472;6.50;306;2;won;v Bangladesh;The Oval;01/06/2017;ODI # 3875;England;1
+1042;305/6;500;6.10;;1;lost;v England;The Oval;01/06/2017;ODI # 3875;Bangladesh;25
+647;291;450;6.46;;1;n/r;v Australia;Birmingham;02/06/2017;ODI # 3876;Newzealad;5
+1173;53/3;90;5.88;235;2;n/r;v New Zealand;Birmingham;02/06/2017;ODI # 3876;Australia;2
+231;203;413;4.89;300;2;lost;v South Africa;The Oval;03/06/2017;ODI # 3877;SriLanka;8
+379;299/6;500;5.98;;1;won;v Sri Lanka;The Oval;03/06/2017;ODI # 3877;SouthAfrica;3
+508;164;334;4.87;289;2;lost;v India;Birmingham;04/06/2017;ODI # 3878;Pakistan;7
+777;319/3;480;6.64;;1;won;v Pakistan;Birmingham;04/06/2017;ODI # 3878;India;6
+1043;182;443;4.08;;1;n/r;v Australia;The Oval;05/06/2017;ODI # 3879;Bangladesh;25
+1174;83/1;160;5.18;183;2;n/r;v Bangladesh;The Oval;05/06/2017;ODI # 3879;Australia;2
+648;223;443;5.01;311;2;lost;v England;Cardiff;06/06/2017;ODI # 3880;Newzealad;5
+938;310;493;6.26;;1;won;v New Zealand;Cardiff;06/06/2017;ODI # 3880;England;1
+380;219/8;500;4.38;;1;lost;v Pakistan;Birmingham;07/06/2017;ODI # 3881;SouthAfrica;3
+509;119/3;270;4.40;101;2;won;v South Africa;Birmingham;07/06/2017;ODI # 3881;Pakistan;7
+232;322/3;484;6.61;322;2;won;v India;The Oval;08/06/2017;ODI # 3882;SriLanka;8
+778;321/6;500;6.42;;1;lost;v Sri Lanka;The Oval;08/06/2017;ODI # 3882;India;6
+649;265/8;500;5.30;;1;lost;v Bangladesh;Cardiff;09/06/2017;ODI # 3883;Newzealad;5
+1044;268/5;472;5.66;266;2;won;v New Zealand;Cardiff;09/06/2017;ODI # 3883;Bangladesh;25
+73;149;444;3.33;213;2;lost;v Afghanistan;Gros Islet;09/06/2017;ODI # 3884;WestIndies;4
+1264;212/6;500;4.24;;1;won;v West Indies;Gros Islet;09/06/2017;ODI # 3884;Afghanistan;40
+939;240/4;402;5.95;201;2;won;v Australia;Birmingham;10/06/2017;ODI # 3885;England;1
+1175;277/9;500;5.54;;1;lost;v England;Birmingham;10/06/2017;ODI # 3885;Australia;2
+381;191;443;4.29;;1;lost;v India;The Oval;11/06/2017;ODI # 3886;SouthAfrica;3
+779;193/2;380;5.07;192;2;won;v South Africa;The Oval;11/06/2017;ODI # 3886;India;6
+74;138/6;392;3.50;136;2;won;v Afghanistan;Gros Islet;11/06/2017;ODI # 3887;WestIndies;4
+1265;135;373;3.60;;1;lost;v West Indies;Gros Islet;11/06/2017;ODI # 3887;Afghanistan;40
+233;236;492;4.78;;1;lost;v Pakistan;Cardiff;12/06/2017;ODI # 3888;SriLanka;8
+510;237/7;445;5.28;237;2;won;v Sri Lanka;Cardiff;12/06/2017;ODI # 3888;Pakistan;7
+511;215/2;371;5.78;212;2;won;v England;Cardiff;14/06/2017;ODI # 3889;Pakistan;7
+940;211;495;4.23;;1;lost;v Pakistan;Cardiff;14/06/2017;ODI # 3889;England;1
+75;DNB;0;-;;0;n/r;v Afghanistan;Gros Islet;14/06/2017;ODI # 3890;WestIndies;4
+1266;DNB;0;-;;0;n/r;v West Indies;Gros Islet;14/06/2017;ODI # 3890;Afghanistan;40
+780;265/1;401;6.59;265;2;won;v Bangladesh;Birmingham;15/06/2017;ODI # 3891;India;6
+1045;264/7;500;5.28;;1;lost;v India;Birmingham;15/06/2017;ODI # 3891;Bangladesh;25
+512;338/4;500;6.76;;1;won;v India;The Oval;18/06/2017;ODI # 3894;Pakistan;7
+781;158;303;5.18;339;2;lost;v Pakistan;The Oval;18/06/2017;ODI # 3894;India;6
+76;DNB;0;-;;0;n/r;v India;Port of Spain;23/06/2017;ODI # 3895;WestIndies;4
+782;199/3;392;5.05;;1;n/r;v West Indies;Port of Spain;23/06/2017;ODI # 3895;India;6
+77;205/6;430;4.76;311;2;lost;v India;Port of Spain;25/06/2017;ODI # 3896;WestIndies;4
+783;310/5;430;7.20;;1;won;v West Indies;Port of Spain;25/06/2017;ODI # 3896;India;6
+234;316/5;500;6.32;;1;lost;v Zimbabwe;Galle;30/06/2017;ODI # 3897;SriLanka;8
+78;158;381;4.13;252;2;lost;v India;North Sound;30/06/2017;ODI # 3898;WestIndies;4
+784;251/4;500;5.02;;1;won;v West Indies;North Sound;30/06/2017;ODI # 3898;India;6
+235;158/3;301;5.23;156;2;won;v Zimbabwe;Galle;02/07/2017;ODI # 3899;SriLanka;8
+79;189/9;500;3.78;;1;won;v India;North Sound;02/07/2017;ODI # 3900;WestIndies;4
+785;178;494;3.58;190;2;lost;v West Indies;North Sound;02/07/2017;ODI # 3900;India;6
+236;312/2;472;6.59;311;2;won;v Zimbabwe;Hambantota;06/07/2017;ODI # 3901;SriLanka;8
+80;205/9;500;4.10;;1;lost;v India;Kingston;06/07/2017;ODI # 3902;WestIndies;4
+786;206/2;365;5.59;206;2;won;v West Indies;Kingston;06/07/2017;ODI # 3902;India;6
+237;300/6;500;6.00;;1;lost;v Zimbabwe;Hambantota;08/07/2017;ODI # 3903;SriLanka;8
+238;203/8;500;4.06;;1;lost;v Zimbabwe;Hambantota;10/07/2017;ODI # 3904;SriLanka;8
+239;216;432;4.98;;1;lost;v India;Dambulla;20/08/2017;ODI # 3905;SriLanka;8
+787;220/1;285;7.63;217;2;won;v Sri Lanka;Dambulla;20/08/2017;ODI # 3905;India;6
+240;236/8;500;4.72;;1;lost;v India;Pallekele;24/08/2017;ODI # 3906;SriLanka;8
+788;231/7;442;5.21;231;2;won;v Sri Lanka;Pallekele;24/08/2017;ODI # 3906;India;6
+241;217/9;500;4.34;;1;lost;v India;Pallekele;27/08/2017;ODI # 3907;SriLanka;8
+789;218/4;451;4.82;218;2;won;v Sri Lanka;Pallekele;27/08/2017;ODI # 3907;India;6
+242;207;424;4.85;376;2;lost;v India;Colombo (RPS);31/08/2017;ODI # 3908;SriLanka;8
+790;375/5;500;7.50;;1;won;v Sri Lanka;Colombo (RPS);31/08/2017;ODI # 3908;India;6
+243;238;494;4.79;;1;lost;v India;Colombo (RPS);03/09/2017;ODI # 3909;SriLanka;8
+791;239/4;463;5.13;239;2;won;v Sri Lanka;Colombo (RPS);03/09/2017;ODI # 3909;India;6
+792;281/7;500;5.62;;1;won;v Australia;Chennai;17/09/2017;ODI # 3910;India;6
+1176;137/9;210;6.52;164;2;lost;v India;Chennai;17/09/2017;ODI # 3910;Australia;2
+81;204/9;420;4.85;;1;lost;v England;Manchester;19/09/2017;ODI # 3911;WestIndies;4
+941;210/3;305;6.81;205;2;won;v West Indies;Manchester;19/09/2017;ODI # 3911;England;1
+793;252;500;5.04;;1;won;v Australia;Kolkata;21/09/2017;ODI # 3912;India;6
+1177;202;431;4.67;253;2;lost;v India;Kolkata;21/09/2017;ODI # 3912;Australia;2
+82;DNB;0;-;;0;n/r;v England;Nottingham;21/09/2017;ODI # 3913;WestIndies;4
+942;21/0;22;9.00;;1;n/r;v West Indies;Nottingham;21/09/2017;ODI # 3913;England;1
+794;294/5;475;6.14;294;2;won;v Australia;Indore;24/09/2017;ODI # 3914;India;6
+1178;293/6;500;5.86;;1;lost;v India;Indore;24/09/2017;ODI # 3914;Australia;2
+83;245;391;6.25;370;2;lost;v England;Bristol;24/09/2017;ODI # 3915;WestIndies;4
+943;369/9;500;7.38;;1;won;v West Indies;Bristol;24/09/2017;ODI # 3915;England;1
+84;356/5;500;7.12;;1;lost;v England;The Oval;27/09/2017;ODI # 3916;WestIndies;4
+944;258/5;351;7.33;253;2;won;v West Indies;The Oval;27/09/2017;ODI # 3916;England;1
+795;313/8;500;6.26;335;2;lost;v Australia;Bengaluru;28/09/2017;ODI # 3917;India;6
+1179;334/5;500;6.68;;1;won;v India;Bengaluru;28/09/2017;ODI # 3917;Australia;2
+85;288/6;500;5.76;;1;lost;v England;Southampton;29/09/2017;ODI # 3918;WestIndies;4
+945;294/1;380;7.73;289;2;won;v West Indies;Southampton;29/09/2017;ODI # 3918;England;1
+796;243/3;425;5.67;243;2;won;v Australia;Nagpur;01/10/2017;ODI # 3919;India;6
+1180;242/9;500;4.84;;1;lost;v India;Nagpur;01/10/2017;ODI # 3919;Australia;2
+244;209/8;500;4.18;293;2;lost;v Pakistan;Dubai (DSC);13/10/2017;ODI # 3922;SriLanka;8
+513;292/6;500;5.84;;1;won;v Sri Lanka;Dubai (DSC);13/10/2017;ODI # 3922;Pakistan;7
+382;282/0;425;6.58;279;2;won;v Bangladesh;Kimberley;15/10/2017;ODI # 3923;SouthAfrica;3
+1046;278/7;500;5.56;;1;lost;v South Africa;Kimberley;15/10/2017;ODI # 3923;Bangladesh;25
+245;187;480;3.89;220;2;lost;v Pakistan;Abu Dhabi;16/10/2017;ODI # 3924;SriLanka;8
+514;219/9;500;4.38;;1;won;v Sri Lanka;Abu Dhabi;16/10/2017;ODI # 3924;Pakistan;7
+383;353/6;500;7.06;;1;won;v Bangladesh;Paarl;18/10/2017;ODI # 3925;SouthAfrica;3
+1047;249;475;5.20;354;2;lost;v South Africa;Paarl;18/10/2017;ODI # 3925;Bangladesh;25
+246;208;482;4.30;;1;lost;v Pakistan;Abu Dhabi;18/10/2017;ODI # 3926;SriLanka;8
+515;209/3;423;4.91;209;2;won;v Sri Lanka;Abu Dhabi;18/10/2017;ODI # 3926;Pakistan;7
+247;173;434;3.96;;1;lost;v Pakistan;Sharjah;20/10/2017;ODI # 3927;SriLanka;8
+516;177/3;390;4.53;174;2;won;v Sri Lanka;Sharjah;20/10/2017;ODI # 3927;Pakistan;7
+650;284/4;490;5.79;281;2;won;v India;Mumbai;22/10/2017;ODI # 3928;Newzealad;5
+797;280/8;500;5.60;;1;lost;v New Zealand;Mumbai;22/10/2017;ODI # 3928;India;6
+384;369/6;500;7.38;;1;won;v Bangladesh;East London;22/10/2017;ODI # 3929;SouthAfrica;3
+1048;169;404;4.15;370;2;lost;v South Africa;East London;22/10/2017;ODI # 3929;Bangladesh;25
+248;103;262;3.91;;1;lost;v Pakistan;Sharjah;23/10/2017;ODI # 3930;SriLanka;8
+517;105/1;202;5.16;104;2;won;v Sri Lanka;Sharjah;23/10/2017;ODI # 3930;Pakistan;7
+651;230/9;500;4.60;;1;lost;v India;Pune;25/10/2017;ODI # 3931;Newzealad;5
+798;232/4;460;5.04;231;2;won;v New Zealand;Pune;25/10/2017;ODI # 3931;India;6
+652;331/7;500;6.62;338;2;lost;v India;Kanpur;29/10/2017;ODI # 3932;Newzealad;5
+799;337/6;500;6.74;;1;won;v New Zealand;Kanpur;29/10/2017;ODI # 3932;India;6
+1267;238/9;500;4.76;;1;won;v Ireland;Sharjah;05/12/2017;ODI # 3935;Afghanistan;40
+1268;220;452;4.85;272;2;lost;v Ireland;Sharjah;07/12/2017;ODI # 3937;Afghanistan;40
+249;114/3;204;5.51;113;2;won;v India;Dharamsala;10/12/2017;ODI # 3939;SriLanka;8
+800;112;382;2.92;;1;lost;v Sri Lanka;Dharamsala;10/12/2017;ODI # 3939;India;6
+1269;177;482;3.66;;1;lost;v Ireland;Sharjah;10/12/2017;ODI # 3940;Afghanistan;40
+250;251/8;500;5.02;393;2;lost;v India;Mohali;13/12/2017;ODI # 3941;SriLanka;8
+801;392/4;500;7.84;;1;won;v Sri Lanka;Mohali;13/12/2017;ODI # 3941;India;6
+251;215;445;4.79;;1;lost;v India;Visakhapatnam;17/12/2017;ODI # 3942;SriLanka;8
+802;219/2;321;6.80;216;2;won;v Sri Lanka;Visakhapatnam;17/12/2017;ODI # 3942;India;6
+86;248/9;500;4.96;;1;lost;v New Zealand;Whangarei;20/12/2017;ODI # 3943;WestIndies;4
+653;249/5;460;5.41;249;2;won;v West Indies;Whangarei;20/12/2017;ODI # 3943;Newzealad;5
+87;121;280;4.32;326;2;lost;v New Zealand;Christchurch;23/12/2017;ODI # 3944;WestIndies;4
+654;325/6;500;6.50;;1;won;v West Indies;Christchurch;23/12/2017;ODI # 3944;Newzealad;5
+88;99/9;230;4.30;166;2;lost;v New Zealand;Christchurch;26/12/2017;ODI # 3945;WestIndies;4
+655;131/4;230;5.69;;1;won;v West Indies;Christchurch;26/12/2017;ODI # 3945;Newzealad;5
+518;166/6;301;5.50;228;2;lost;v New Zealand;Wellington;06/01/2018;ODI # 3946;Pakistan;7
+656;315/7;500;6.30;;1;won;v Pakistan;Wellington;06/01/2018;ODI # 3946;Newzealad;5
+519;246/9;500;4.92;;1;lost;v New Zealand;Nelson;09/01/2018;ODI # 3947;Pakistan;7
+657;151/2;235;6.33;151;2;won;v Pakistan;Nelson;09/01/2018;ODI # 3947;Newzealad;5
+520;74;272;2.70;258;2;lost;v New Zealand;Dunedin;13/01/2018;ODI # 3949;Pakistan;7
+658;257;500;5.14;;1;won;v Pakistan;Dunedin;13/01/2018;ODI # 3949;Newzealad;5
+946;308/5;485;6.30;305;2;won;v Australia;Melbourne;14/01/2018;ODI # 3951;England;1
+1181;304/8;500;6.08;;1;lost;v England;Melbourne;14/01/2018;ODI # 3951;Australia;2
+1049;171/2;283;6.00;171;2;won;v Zimbabwe;Dhaka;15/01/2018;ODI # 3952;Bangladesh;25
+521;262/8;500;5.24;;1;lost;v New Zealand;Hamilton;16/01/2018;ODI # 3953;Pakistan;7
+659;263/5;455;5.73;263;2;won;v Pakistan;Hamilton;16/01/2018;ODI # 3953;Newzealad;5
+252;278;481;5.77;291;2;lost;v Zimbabwe;Dhaka;17/01/2018;ODI # 3955;SriLanka;8
+522;256;490;5.22;272;2;lost;v New Zealand;Wellington;19/01/2018;ODI # 3957;Pakistan;7
+660;271/7;500;5.42;;1;won;v Pakistan;Wellington;19/01/2018;ODI # 3957;Newzealad;5
+947;274/6;442;6.18;271;2;won;v Australia;Brisbane;19/01/2018;ODI # 3958;England;1
+1182;270/9;500;5.40;;1;lost;v England;Brisbane;19/01/2018;ODI # 3958;Australia;2
+253;157;322;4.85;321;2;lost;v Bangladesh;Dhaka;19/01/2018;ODI # 3959;SriLanka;8
+1050;320/7;500;6.40;;1;won;v Sri Lanka;Dhaka;19/01/2018;ODI # 3959;Bangladesh;25
+948;302/6;500;6.04;;1;won;v Australia;Sydney;21/01/2018;ODI # 3960;England;1
+1183;286/6;500;5.72;303;2;lost;v England;Sydney;21/01/2018;ODI # 3960;Australia;2
+254;202/5;445;4.50;199;2;won;v Zimbabwe;Dhaka;21/01/2018;ODI # 3962;SriLanka;8
+1051;216/9;500;4.32;;1;won;v Zimbabwe;Dhaka;23/01/2018;ODI # 3964;Bangladesh;25
+255;83/0;115;7.01;83;2;won;v Bangladesh;Dhaka;25/01/2018;ODI # 3965;SriLanka;8
+1052;82;240;3.41;;1;lost;v Sri Lanka;Dhaka;25/01/2018;ODI # 3965;Bangladesh;25
+949;196;445;4.37;;1;lost;v Australia;Adelaide;26/01/2018;ODI # 3966;England;1
+1184;197/7;370;5.32;197;2;won;v England;Adelaide;26/01/2018;ODI # 3966;Australia;2
+256;221;500;4.42;;1;won;v Bangladesh;Dhaka;27/01/2018;ODI # 3967;SriLanka;8
+1053;142;411;3.44;222;2;lost;v Sri Lanka;Dhaka;27/01/2018;ODI # 3967;Bangladesh;25
+950;259;474;5.43;;1;won;v Australia;Perth;28/01/2018;ODI # 3968;England;1
+1185;247;482;5.11;260;2;lost;v England;Perth;28/01/2018;ODI # 3968;Australia;2
+385;269/8;500;5.38;;1;lost;v India;Durban;01/02/2018;ODI # 3969;SouthAfrica;3
+803;270/4;453;5.93;270;2;won;v South Africa;Durban;01/02/2018;ODI # 3969;India;6
+386;118;322;3.64;;1;lost;v India;Centurion;04/02/2018;ODI # 3970;SouthAfrica;3
+804;119/1;203;5.80;119;2;won;v South Africa;Centurion;04/02/2018;ODI # 3970;India;6
+387;179;400;4.47;304;2;lost;v India;Cape Town;07/02/2018;ODI # 3971;SouthAfrica;3
+805;303/6;500;6.06;;1;won;v South Africa;Cape Town;07/02/2018;ODI # 3971;India;6
+1270;333/5;500;6.66;;1;won;v Zimbabwe;Sharjah;09/02/2018;ODI # 3972;Afghanistan;40
+388;207/5;253;8.11;202;2;won;v India;Johannesburg;10/02/2018;ODI # 3973;SouthAfrica;3
+806;289/7;500;5.78;;1;lost;v South Africa;Johannesburg;10/02/2018;ODI # 3973;India;6
+1271;179;301;5.93;334;2;lost;v Zimbabwe;Sharjah;11/02/2018;ODI # 3974;Afghanistan;40
+1272;158/4;273;5.74;155;2;won;v Zimbabwe;Sharjah;13/02/2018;ODI # 3975;Afghanistan;40
+389;201;422;4.74;275;2;lost;v India;Port Elizabeth;13/02/2018;ODI # 3976;SouthAfrica;3
+807;274/7;500;5.48;;1;won;v South Africa;Port Elizabeth;13/02/2018;ODI # 3976;India;6
+1273;135/0;211;6.37;135;2;won;v Zimbabwe;Sharjah;16/02/2018;ODI # 3977;Afghanistan;40
+390;204;465;4.35;;1;lost;v India;Centurion;16/02/2018;ODI # 3978;SouthAfrica;3
+808;206/2;321;6.40;205;2;won;v South Africa;Centurion;16/02/2018;ODI # 3978;India;6
+1274;241/9;500;4.82;;1;won;v Zimbabwe;Sharjah;19/02/2018;ODI # 3979;Afghanistan;40
+661;287/7;492;5.81;285;2;won;v England;Hamilton;25/02/2018;ODI # 3980;Newzealad;5
+951;284/8;500;5.68;;1;lost;v New Zealand;Hamilton;25/02/2018;ODI # 3980;England;1
+662;223;494;4.48;;1;lost;v England;Mount Maunganui;28/02/2018;ODI # 3981;Newzealad;5
+952;225/4;375;5.94;224;2;won;v New Zealand;Mount Maunganui;28/02/2018;ODI # 3981;England;1
+663;230/8;500;4.60;235;2;lost;v England;Wellington;03/03/2018;ODI # 3982;Newzealad;5
+953;234;500;4.68;;1;won;v New Zealand;Wellington;03/03/2018;ODI # 3982;England;1
+1275;255;494;5.13;;1;lost;v Scotland;Bulawayo;04/03/2018;ODI # 3983;Afghanistan;40
+89;357/4;500;7.14;;1;won;v U.A.E.;Harare;06/03/2018;ODI # 3987;WestIndies;4
+1276;194;493;3.91;197;2;lost;v Zimbabwe;Bulawayo;06/03/2018;ODI # 3988;Afghanistan;40
+664;339/5;493;6.84;336;2;won;v England;Dunedin;07/03/2018;ODI # 3989;Newzealad;5
+954;335/9;500;6.70;;1;lost;v New Zealand;Dunedin;07/03/2018;ODI # 3989;England;1
+1277;195/9;460;4.23;226;2;lost;v Hong Kong;Bulawayo;08/03/2018;ODI # 3990;Afghanistan;40
+90;201/4;430;4.67;201;2;won;v P.N.G.;Harare;08/03/2018;ODI # 3991;WestIndies;4
+665;223;495;4.47;;1;lost;v England;Christchurch;10/03/2018;ODI # 3992;Newzealad;5
+955;229/3;324;7.01;224;2;won;v New Zealand;Christchurch;10/03/2018;ODI # 3992;England;1
+91;257/8;500;5.14;;1;won;v Ireland;Harare;10/03/2018;ODI # 3993;WestIndies;4
+92;197/8;500;3.94;;1;lost;v Afghanistan;Harare;15/03/2018;ODI # 3997;WestIndies;4
+1278;198/7;474;4.15;198;2;won;v West Indies;Harare;15/03/2018;ODI # 3997;Afghanistan;40
+93;290/6;490;5.91;290;2;won;v Zimbabwe;Harare;19/03/2018;ODI # 4002;WestIndies;4
+1279;178/5;343;5.15;178;2;won;v U.A.E.;Harare;20/03/2018;ODI # 4003;Afghanistan;40
+94;198;484;4.06;;1;won;v Scotland;Harare;21/03/2018;ODI # 4004;WestIndies;4
+1280;213/5;491;4.33;210;2;won;v Ireland;Harare;23/03/2018;ODI # 4006;Afghanistan;40
+95;204;465;4.35;;1;lost;v Afghanistan;Harare;25/03/2018;ODI # 4007;WestIndies;4
+1281;206/3;404;5.06;205;2;won;v West Indies;Harare;25/03/2018;ODI # 4007;Afghanistan;40
+956;365;485;7.47;372;2;lost;v Scotland;Edinburgh;10/06/2018;ODI # 4008;England;1
+957;218/7;440;4.95;215;2;won;v Australia;The Oval;13/06/2018;ODI # 4009;England;1
+1186;214;470;4.55;;1;lost;v England;The Oval;13/06/2018;ODI # 4009;Australia;2
+958;342/8;500;6.84;;1;won;v Australia;Cardiff;16/06/2018;ODI # 4010;England;1
+1187;304;471;6.44;343;2;lost;v England;Cardiff;16/06/2018;ODI # 4010;Australia;2
+959;481/6;500;9.62;;1;won;v Australia;Nottingham;19/06/2018;ODI # 4011;England;1
+1188;239;370;6.45;482;2;lost;v England;Nottingham;19/06/2018;ODI # 4011;Australia;2
+960;314/4;444;7.02;311;2;won;v Australia;Chester-le-Street;21/06/2018;ODI # 4012;England;1
+1189;310/8;500;6.20;;1;lost;v England;Chester-le-Street;21/06/2018;ODI # 4012;Australia;2
+961;208/9;483;4.28;206;2;won;v Australia;Manchester;24/06/2018;ODI # 4013;England;1
+1190;205;344;5.91;;1;lost;v England;Manchester;24/06/2018;ODI # 4013;Australia;2
+809;269/2;401;6.69;269;2;won;v England;Nottingham;12/07/2018;ODI # 4014;India;6
+962;268;495;5.37;;1;lost;v India;Nottingham;12/07/2018;ODI # 4014;England;1
+523;308/7;500;6.16;;1;won;v Zimbabwe;Bulawayo;13/07/2018;ODI # 4015;Pakistan;7
+810;236;500;4.72;323;2;lost;v England;Lord's;14/07/2018;ODI # 4016;India;6
+963;322/7;500;6.44;;1;won;v India;Lord's;14/07/2018;ODI # 4016;England;1
+524;195/1;360;5.41;195;2;won;v Zimbabwe;Bulawayo;16/07/2018;ODI # 4017;Pakistan;7
+811;256/8;500;5.12;;1;lost;v England;Leeds;17/07/2018;ODI # 4018;India;6
+964;260/2;443;5.84;257;2;won;v India;Leeds;17/07/2018;ODI # 4018;England;1
+525;69/1;95;7.01;68;2;won;v Zimbabwe;Bulawayo;18/07/2018;ODI # 4019;Pakistan;7
+526;399/1;500;7.98;;1;won;v Zimbabwe;Bulawayo;20/07/2018;ODI # 4020;Pakistan;7
+527;364/4;500;7.28;;1;won;v Zimbabwe;Bulawayo;22/07/2018;ODI # 4021;Pakistan;7
+96;231/9;500;4.62;280;2;lost;v Bangladesh;Providence;22/07/2018;ODI # 4022;WestIndies;4
+1054;279/4;500;5.58;;1;won;v West Indies;Providence;22/07/2018;ODI # 4022;Bangladesh;25
+97;271;493;5.47;;1;won;v Bangladesh;Providence;25/07/2018;ODI # 4023;WestIndies;4
+1055;268/6;500;5.36;272;2;lost;v West Indies;Providence;25/07/2018;ODI # 4023;Bangladesh;25
+98;283/6;500;5.66;302;2;lost;v Bangladesh;Basseterre;28/07/2018;ODI # 4024;WestIndies;4
+1056;301/6;500;6.02;;1;won;v West Indies;Basseterre;28/07/2018;ODI # 4024;Bangladesh;25
+257;193;343;5.59;;1;lost;v South Africa;Dambulla;29/07/2018;ODI # 4025;SriLanka;8
+391;196/5;310;6.32;194;2;won;v Sri Lanka;Dambulla;29/07/2018;ODI # 4025;SouthAfrica;3
+258;244/8;500;4.88;;1;lost;v South Africa;Dambulla;01/08/2018;ODI # 4027;SriLanka;8
+392;246/6;425;5.74;245;2;won;v Sri Lanka;Dambulla;01/08/2018;ODI # 4027;SouthAfrica;3
+259;285;452;6.28;364;2;lost;v South Africa;Pallekele;05/08/2018;ODI # 4029;SriLanka;8
+393;363/7;500;7.26;;1;won;v Sri Lanka;Pallekele;05/08/2018;ODI # 4029;SouthAfrica;3
+260;306/7;390;7.84;;1;won;v South Africa;Pallekele;08/08/2018;ODI # 4030;SriLanka;8
+394;187/9;210;8.90;191;2;lost;v Sri Lanka;Pallekele;08/08/2018;ODI # 4030;SouthAfrica;3
+261;299/8;500;5.98;;1;won;v South Africa;Colombo (RPS);12/08/2018;ODI # 4031;SriLanka;8
+395;121;244;4.90;300;2;lost;v Sri Lanka;Colombo (RPS);12/08/2018;ODI # 4031;SouthAfrica;3
+1282;227/9;500;4.54;;1;won;v Ireland;Belfast;27/08/2018;ODI # 4032;Afghanistan;40
+1283;182/9;500;3.64;;1;lost;v Ireland;Belfast;29/08/2018;ODI # 4033;Afghanistan;40
+1284;127/2;235;5.32;125;2;won;v Ireland;Belfast;31/08/2018;ODI # 4035;Afghanistan;40
+262;124;352;3.50;262;2;lost;v Bangladesh;Dubai (DSC);15/09/2018;ODI # 4036;SriLanka;8
+1057;261;493;5.27;;1;won;v Sri Lanka;Dubai (DSC);15/09/2018;ODI # 4036;Bangladesh;25
+528;120/2;234;5.07;117;2;won;v Hong Kong;Dubai (DSC);16/09/2018;ODI # 4037;Pakistan;7
+263;158;412;3.82;250;2;lost;v Afghanistan;Abu Dhabi;17/09/2018;ODI # 4038;SriLanka;8
+1285;249;500;4.98;;1;won;v Sri Lanka;Abu Dhabi;17/09/2018;ODI # 4038;Afghanistan;40
+812;285/7;500;5.70;;1;won;v Hong Kong;Dubai (DSC);18/09/2018;ODI # 4039;India;6
+529;162;431;3.75;;1;lost;v India;Dubai (DSC);19/09/2018;ODI # 4040;Pakistan;7
+813;164/2;290;5.65;163;2;won;v Pakistan;Dubai (DSC);19/09/2018;ODI # 4040;India;6
+1058;119;421;2.82;256;2;lost;v Afghanistan;Abu Dhabi;20/09/2018;ODI # 4041;Bangladesh;25
+1286;255/7;500;5.10;;1;won;v Bangladesh;Abu Dhabi;20/09/2018;ODI # 4041;Afghanistan;40
+814;174/3;362;4.78;174;2;won;v Bangladesh;Dubai (DSC);21/09/2018;ODI # 4042;India;6
+1059;173;491;3.51;;1;lost;v India;Dubai (DSC);21/09/2018;ODI # 4042;Bangladesh;25
+530;258/7;493;5.21;258;2;won;v Afghanistan;Abu Dhabi;21/09/2018;ODI # 4043;Pakistan;7
+1287;257/6;500;5.14;;1;lost;v Pakistan;Abu Dhabi;21/09/2018;ODI # 4043;Afghanistan;40
+531;237/7;500;4.74;;1;lost;v India;Dubai (DSC);23/09/2018;ODI # 4044;Pakistan;7
+815;238/1;393;6.02;238;2;won;v Pakistan;Dubai (DSC);23/09/2018;ODI # 4044;India;6
+1060;249/7;500;4.98;;1;won;v Afghanistan;Abu Dhabi;23/09/2018;ODI # 4045;Bangladesh;25
+1288;246/7;500;4.92;250;2;lost;v Bangladesh;Abu Dhabi;23/09/2018;ODI # 4045;Afghanistan;40
+816;252;495;5.05;253;2;tied;v Afghanistan;Dubai (DSC);25/09/2018;ODI # 4046;India;6
+1289;252/8;500;5.04;;1;tied;v India;Dubai (DSC);25/09/2018;ODI # 4046;Afghanistan;40
+532;202/9;500;4.04;240;2;lost;v Bangladesh;Abu Dhabi;26/09/2018;ODI # 4047;Pakistan;7
+1061;239;485;4.89;;1;won;v Pakistan;Abu Dhabi;26/09/2018;ODI # 4047;Bangladesh;25
+817;223/7;500;4.46;223;2;won;v Bangladesh;Dubai (DSC);28/09/2018;ODI # 4048;India;6
+1062;222;483;4.57;;1;lost;v India;Dubai (DSC);28/09/2018;ODI # 4048;Bangladesh;25
+396;119/5;261;4.54;118;2;won;v Zimbabwe;Kimberley;30/09/2018;ODI # 4049;SouthAfrica;3
+397;198;473;4.16;;1;won;v Zimbabwe;Bloemfontein;03/10/2018;ODI # 4050;SouthAfrica;3
+398;231/6;455;5.04;229;2;won;v Zimbabwe;Paarl;06/10/2018;ODI # 4051;SouthAfrica;3
+264;DNB;0;-;;0;n/r;v England;Dambulla;10/10/2018;ODI # 4052;SriLanka;8
+965;92/2;150;6.13;;1;n/r;v Sri Lanka;Dambulla;10/10/2018;ODI # 4052;England;1
+265;140/5;290;4.82;172;2;lost;v England;Dambulla;13/10/2018;ODI # 4053;SriLanka;8
+966;278/9;500;5.56;;1;won;v Sri Lanka;Dambulla;13/10/2018;ODI # 4053;England;1
+266;150/9;210;7.14;;1;lost;v England;Pallekele;17/10/2018;ODI # 4054;SriLanka;8
+967;153/3;183;8.27;151;2;won;v Sri Lanka;Pallekele;17/10/2018;ODI # 4054;England;1
+267;273/7;500;5.46;;1;lost;v England;Pallekele;20/10/2018;ODI # 4055;SriLanka;8
+968;132/2;270;4.88;115;2;won;v Sri Lanka;Pallekele;20/10/2018;ODI # 4055;England;1
+99;322/8;500;6.44;;1;lost;v India;Guwahati;21/10/2018;ODI # 4056;WestIndies;4
+818;326/2;421;7.73;323;2;won;v West Indies;Guwahati;21/10/2018;ODI # 4056;India;6
+1063;271/8;500;5.42;;1;won;v Zimbabwe;Dhaka;21/10/2018;ODI # 4057;Bangladesh;25
+268;366/6;500;7.32;;1;won;v England;Colombo (RPS);23/10/2018;ODI # 4058;SriLanka;8
+969;132/9;261;5.04;352;2;lost;v Sri Lanka;Colombo (RPS);23/10/2018;ODI # 4058;England;1
+100;321/7;500;6.42;322;2;tied;v India;Visakhapatnam;24/10/2018;ODI # 4059;WestIndies;4
+819;321/6;500;6.42;;1;tied;v West Indies;Visakhapatnam;24/10/2018;ODI # 4059;India;6
+1064;250/3;441;5.66;247;2;won;v Zimbabwe;Chattogram;24/10/2018;ODI # 4060;Bangladesh;25
+1065;288/3;421;6.83;287;2;won;v Zimbabwe;Chattogram;26/10/2018;ODI # 4061;Bangladesh;25
+101;283/9;500;5.66;;1;won;v India;Pune;27/10/2018;ODI # 4062;WestIndies;4
+820;240;474;5.03;284;2;lost;v West Indies;Pune;27/10/2018;ODI # 4062;India;6
+102;153;362;4.21;378;2;lost;v India;Mumbai (BS);29/10/2018;ODI # 4063;WestIndies;4
+821;377/5;500;7.54;;1;won;v West Indies;Mumbai (BS);29/10/2018;ODI # 4063;India;6
+103;104;315;3.26;;1;lost;v India;Thiruvananthapuram;01/11/2018;ODI # 4064;WestIndies;4
+822;105/1;145;7.07;105;2;won;v West Indies;Thiruvananthapuram;01/11/2018;ODI # 4064;India;6
+399;153/4;292;5.21;153;2;won;v Australia;Perth;04/11/2018;ODI # 4065;SouthAfrica;3
+1191;152;381;3.98;;1;lost;v South Africa;Perth;04/11/2018;ODI # 4065;Australia;2
+533;219;472;4.62;267;2;lost;v New Zealand;Abu Dhabi;07/11/2018;ODI # 4066;Pakistan;7
+666;266/9;500;5.32;;1;won;v Pakistan;Abu Dhabi;07/11/2018;ODI # 4066;Newzealad;5
+400;224/9;500;4.48;232;2;lost;v Australia;Adelaide;09/11/2018;ODI # 4067;SouthAfrica;3
+1192;231;483;4.76;;1;won;v South Africa;Adelaide;09/11/2018;ODI # 4067;Australia;2
+534;212/4;403;5.23;210;2;won;v New Zealand;Abu Dhabi;09/11/2018;ODI # 4068;Pakistan;7
+667;209/9;500;4.18;;1;lost;v Pakistan;Abu Dhabi;09/11/2018;ODI # 4068;Newzealad;5
+401;320/5;500;6.40;;1;won;v Australia;Hobart;11/11/2018;ODI # 4069;SouthAfrica;3
+1193;280/9;500;5.60;321;2;lost;v South Africa;Hobart;11/11/2018;ODI # 4069;Australia;2
+535;279/8;500;5.58;;1;n/r;v New Zealand;Dubai (DSC);11/11/2018;ODI # 4070;Pakistan;7
+668;35/1;65;5.12;280;2;n/r;v Pakistan;Dubai (DSC);11/11/2018;ODI # 4070;Newzealad;5
+104;195/9;500;3.90;;1;lost;v Bangladesh;Dhaka;09/12/2018;ODI # 4071;WestIndies;4
+1066;196/5;351;5.57;196;2;won;v West Indies;Dhaka;09/12/2018;ODI # 4071;Bangladesh;25
+105;256/6;494;5.15;256;2;won;v Bangladesh;Dhaka;11/12/2018;ODI # 4072;WestIndies;4
+1067;255/7;500;5.10;;1;lost;v West Indies;Dhaka;11/12/2018;ODI # 4072;Bangladesh;25
+106;198/9;500;3.96;;1;lost;v Bangladesh;Sylhet;14/12/2018;ODI # 4073;WestIndies;4
+1068;202/2;383;5.24;199;2;won;v West Indies;Sylhet;14/12/2018;ODI # 4073;Bangladesh;25
+269;326;490;6.65;372;2;lost;v New Zealand;Mount Maunganui;03/01/2019;ODI # 4074;SriLanka;8
+669;371/7;500;7.42;;1;won;v Sri Lanka;Mount Maunganui;03/01/2019;ODI # 4074;Newzealad;5
+270;298;462;6.43;320;2;lost;v New Zealand;Mount Maunganui;05/01/2019;ODI # 4075;SriLanka;8
+670;319/7;500;6.38;;1;won;v Sri Lanka;Mount Maunganui;05/01/2019;ODI # 4075;Newzealad;5
+271;249;414;5.97;365;2;lost;v New Zealand;Nelson;08/01/2019;ODI # 4076;SriLanka;8
+671;364/4;500;7.28;;1;won;v Sri Lanka;Nelson;08/01/2019;ODI # 4076;Newzealad;5
+823;254/9;500;5.08;289;2;lost;v Australia;Sydney;12/01/2019;ODI # 4077;India;6
+1194;288/5;500;5.76;;1;won;v India;Sydney;12/01/2019;ODI # 4077;Australia;2
+824;299/4;492;6.06;299;2;won;v Australia;Adelaide;15/01/2019;ODI # 4078;India;6
+1195;298/9;500;5.96;;1;lost;v India;Adelaide;15/01/2019;ODI # 4078;Australia;2
+825;234/3;492;4.74;231;2;won;v Australia;Melbourne;18/01/2019;ODI # 4079;India;6
+1196;230;484;4.72;;1;lost;v India;Melbourne;18/01/2019;ODI # 4079;Australia;2
+402;266/2;500;5.32;;1;lost;v Pakistan;Port Elizabeth;19/01/2019;ODI # 4080;SouthAfrica;3
+536;267/5;491;5.43;267;2;won;v South Africa;Port Elizabeth;19/01/2019;ODI # 4080;Pakistan;7
+403;207/5;420;4.92;204;2;won;v Pakistan;Durban;22/01/2019;ODI # 4081;SouthAfrica;3
+537;203;455;4.42;;1;lost;v South Africa;Durban;22/01/2019;ODI # 4081;Pakistan;7
+672;157;380;4.13;;1;lost;v India;Napier;23/01/2019;ODI # 4082;Newzealad;5
+826;156/2;345;4.47;156;2;won;v New Zealand;Napier;23/01/2019;ODI # 4082;India;6
+404;187/2;330;5.66;175;2;won;v Pakistan;Centurion;25/01/2019;ODI # 4084;SouthAfrica;3
+538;317/6;500;6.34;;1;lost;v South Africa;Centurion;25/01/2019;ODI # 4084;Pakistan;7
+673;234;402;5.80;325;2;lost;v India;Mount Maunganui;26/01/2019;ODI # 4085;Newzealad;5
+827;324/4;500;6.48;;1;won;v New Zealand;Mount Maunganui;26/01/2019;ODI # 4085;India;6
+405;164;410;4.00;;1;lost;v Pakistan;Johannesburg;27/01/2019;ODI # 4087;SouthAfrica;3
+539;168/2;313;5.33;165;2;won;v South Africa;Johannesburg;27/01/2019;ODI # 4087;Pakistan;7
+674;243;490;4.95;;1;lost;v India;Mount Maunganui;28/01/2019;ODI # 4088;Newzealad;5
+828;245/3;430;5.69;244;2;won;v New Zealand;Mount Maunganui;28/01/2019;ODI # 4088;India;6
+406;241/3;400;6.02;241;2;won;v Pakistan;Cape Town;30/01/2019;ODI # 4090;SouthAfrica;3
+540;240/8;500;4.80;;1;lost;v South Africa;Cape Town;30/01/2019;ODI # 4090;Pakistan;7
+675;93/2;144;6.34;93;2;won;v India;Hamilton;31/01/2019;ODI # 4091;Newzealad;5
+829;92;305;2.98;;1;lost;v New Zealand;Hamilton;31/01/2019;ODI # 4091;India;6
+676;217;441;4.91;253;2;lost;v India;Wellington;03/02/2019;ODI # 4092;Newzealad;5
+830;252;495;5.05;;1;won;v New Zealand;Wellington;03/02/2019;ODI # 4092;India;6
+677;233/2;443;5.23;233;2;won;v Bangladesh;Napier;13/02/2019;ODI # 4093;Newzealad;5
+1069;232;485;4.75;;1;lost;v New Zealand;Napier;13/02/2019;ODI # 4093;Bangladesh;25
+678;229/2;361;6.33;227;2;won;v Bangladesh;Christchurch;16/02/2019;ODI # 4094;Newzealad;5
+1070;226;494;4.55;;1;lost;v New Zealand;Christchurch;16/02/2019;ODI # 4094;Bangladesh;25
+679;330/6;500;6.60;;1;won;v Bangladesh;Dunedin;20/02/2019;ODI # 4095;Newzealad;5
+1071;242;472;5.11;331;2;lost;v New Zealand;Dunedin;20/02/2019;ODI # 4095;Bangladesh;25
+107;360/8;500;7.20;;1;lost;v England;Bridgetown;20/02/2019;ODI # 4096;WestIndies;4
+970;364/4;484;7.47;361;2;won;v West Indies;Bridgetown;20/02/2019;ODI # 4096;England;1
+108;289/6;500;5.78;;1;won;v England;Bridgetown;22/02/2019;ODI # 4097;WestIndies;4
+971;263;474;5.51;290;2;lost;v West Indies;Bridgetown;22/02/2019;ODI # 4097;England;1
+109;DNB;0;-;;0;n/r;v England;St George's;25/02/2019;ODI # 4098;WestIndies;4
+972;DNB;0;-;;0;n/r;v West Indies;St George's;25/02/2019;ODI # 4098;England;1
+110;389;480;8.10;419;2;lost;v England;St George's;27/02/2019;ODI # 4099;WestIndies;4
+973;418/6;500;8.36;;1;won;v West Indies;St George's;27/02/2019;ODI # 4099;England;1
+1290;165/5;415;3.94;162;2;won;v Ireland;Dehradun;28/02/2019;ODI # 4100;Afghanistan;40
+1291;250/7;483;5.15;;1;n/r;v Ireland;Dehradun;02/03/2019;ODI # 4101;Afghanistan;40
+831;240/4;482;4.96;237;2;won;v Australia;Hyderabad (Deccan);02/03/2019;ODI # 4102;India;6
+1197;236/7;500;4.72;;1;lost;v India;Hyderabad (Deccan);02/03/2019;ODI # 4102;Australia;2
+111;115/3;121;9.45;114;2;won;v England;Gros Islet;02/03/2019;ODI # 4103;WestIndies;4
+974;113;281;4.01;;1;lost;v West Indies;Gros Islet;02/03/2019;ODI # 4103;England;1
+272;231;470;4.91;;1;lost;v South Africa;Johannesburg;03/03/2019;ODI # 4104;SriLanka;8
+407;232/2;385;5.97;232;2;won;v Sri Lanka;Johannesburg;03/03/2019;ODI # 4104;SouthAfrica;3
+1292;256/8;500;5.12;;1;lost;v Ireland;Dehradun;05/03/2019;ODI # 4105;Afghanistan;40
+832;250;482;5.17;;1;won;v Australia;Nagpur;05/03/2019;ODI # 4106;India;6
+1198;242;493;4.88;251;2;lost;v India;Nagpur;05/03/2019;ODI # 4106;Australia;2
+273;138;322;4.26;252;2;lost;v South Africa;Centurion;06/03/2019;ODI # 4107;SriLanka;8
+408;251;451;5.55;;1;won;v Sri Lanka;Centurion;06/03/2019;ODI # 4107;SouthAfrica;3
+1293;223;491;4.53;;1;won;v Ireland;Dehradun;08/03/2019;ODI # 4108;Afghanistan;40
+833;281;482;5.81;314;2;lost;v Australia;Ranchi;08/03/2019;ODI # 4109;India;6
+1199;313/5;500;6.26;;1;won;v India;Ranchi;08/03/2019;ODI # 4109;Australia;2
+1294;216/6;500;4.32;;1;lost;v Ireland;Dehradun;10/03/2019;ODI # 4110;Afghanistan;40
+834;358/9;500;7.16;;1;lost;v Australia;Mohali;10/03/2019;ODI # 4111;India;6
+1200;359/6;475;7.50;359;2;won;v India;Mohali;10/03/2019;ODI # 4111;Australia;2
+274;121/5;240;5.04;193;2;lost;v South Africa;Durban;10/03/2019;ODI # 4112;SriLanka;8
+409;331/5;500;6.62;;1;won;v Sri Lanka;Durban;10/03/2019;ODI # 4112;SouthAfrica;3
+835;237;500;4.74;273;2;lost;v Australia;Delhi;13/03/2019;ODI # 4113;India;6
+1201;272/9;500;5.44;;1;won;v India;Delhi;13/03/2019;ODI # 4113;Australia;2
+275;189;392;4.80;;1;lost;v South Africa;Port Elizabeth;13/03/2019;ODI # 4114;SriLanka;8
+410;190/4;325;5.78;190;2;won;v Sri Lanka;Port Elizabeth;13/03/2019;ODI # 4114;SouthAfrica;3
+276;225;493;4.54;;1;lost;v South Africa;Cape Town;16/03/2019;ODI # 4115;SriLanka;8
+411;135/2;280;4.82;95;2;won;v Sri Lanka;Cape Town;16/03/2019;ODI # 4115;SouthAfrica;3
+541;280/5;500;5.60;;1;lost;v Australia;Sharjah;22/03/2019;ODI # 4116;Pakistan;7
+1202;281/2;490;5.73;281;2;won;v Pakistan;Sharjah;22/03/2019;ODI # 4116;Australia;2
+542;284/7;500;5.68;;1;lost;v Australia;Sharjah;24/03/2019;ODI # 4117;Pakistan;7
+1203;285/2;475;5.95;285;2;won;v Pakistan;Sharjah;24/03/2019;ODI # 4117;Australia;2
+543;186;444;4.16;267;2;lost;v Australia;Abu Dhabi;27/03/2019;ODI # 4118;Pakistan;7
+1204;266/6;500;5.32;;1;won;v Pakistan;Abu Dhabi;27/03/2019;ODI # 4118;Australia;2
+544;271/8;500;5.42;278;2;lost;v Australia;Dubai (DSC);29/03/2019;ODI # 4119;Pakistan;7
+1205;277/7;500;5.54;;1;won;v Pakistan;Dubai (DSC);29/03/2019;ODI # 4119;Australia;2
+545;307/7;500;6.14;328;2;lost;v Australia;Dubai (DSC);31/03/2019;ODI # 4120;Pakistan;7
+1206;327/7;500;6.54;;1;won;v Pakistan;Dubai (DSC);31/03/2019;ODI # 4120;Australia;2
+975;199/6;420;4.73;199;2;won;v Ireland;Dublin (Malahide);03/05/2019;ODI # 4127;England;1
+112;381/3;500;7.62;;1;won;v Ireland;Dublin;05/05/2019;ODI # 4128;WestIndies;4
+113;261/9;500;5.22;;1;lost;v Bangladesh;Dublin;07/05/2019;ODI # 4129;WestIndies;4
+1072;264/2;450;5.86;262;2;won;v West Indies;Dublin;07/05/2019;ODI # 4129;Bangladesh;25
+546;80/2;190;4.21;;1;n/r;v England;The Oval;08/05/2019;ODI # 4130;Pakistan;7
+976;DNB;0;-;;0;n/r;v Pakistan;The Oval;08/05/2019;ODI # 4130;England;1
+1295;269/3;445;6.00;268;2;won;v Scotland;Edinburgh;10/05/2019;ODI # 4131;Afghanistan;40
+114;331/5;475;6.91;328;2;won;v Ireland;Dublin (Malahide);11/05/2019;ODI # 4132;WestIndies;4
+547;361/7;500;7.22;374;2;lost;v England;Southampton;11/05/2019;ODI # 4133;Pakistan;7
+977;373/3;500;7.46;;1;won;v Pakistan;Southampton;11/05/2019;ODI # 4133;England;1
+115;247/9;500;4.94;;1;lost;v Bangladesh;Dublin (Malahide);13/05/2019;ODI # 4134;WestIndies;4
+1073;248/5;472;5.23;248;2;won;v West Indies;Dublin (Malahide);13/05/2019;ODI # 4134;Bangladesh;25
+548;358/9;500;7.16;;1;lost;v England;Bristol;14/05/2019;ODI # 4135;Pakistan;7
+978;359/4;445;8.00;359;2;won;v Pakistan;Bristol;14/05/2019;ODI # 4135;England;1
+1074;294/4;430;6.83;293;2;won;v Ireland;Dublin;15/05/2019;ODI # 4136;Bangladesh;25
+116;152/1;240;6.33;;1;lost;v Bangladesh;Dublin (Malahide);17/05/2019;ODI # 4137;WestIndies;4
+1075;213/5;225;9.32;210;2;won;v West Indies;Dublin (Malahide);17/05/2019;ODI # 4137;Bangladesh;25
+549;340/7;500;6.80;;1;lost;v England;Nottingham;17/05/2019;ODI # 4138;Pakistan;7
+979;341/7;493;6.88;341;2;won;v Pakistan;Nottingham;17/05/2019;ODI # 4138;England;1
+1296;120/8;330;3.63;211;2;-;v Ireland;Belfast;19/05/2019;ODI # 4139;Afghanistan;40
+550;193/6;315;6.06;352;2;-;v England;Leeds;19/05/2019;ODI # 4140;Pakistan;7
+980;351/9;500;7.02;;1;-;v Pakistan;Leeds;19/05/2019;ODI # 4140;England;1
