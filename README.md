@@ -1,0 +1,1 @@
+This project focuses on forecasting cricket player and team performance using time series analysis, specifically ARIMA (AutoRegressive Integrated Moving Average) models. The goal is to predict key performance metrics such as runs scored, wickets taken, and team totals in One Day International (ODI) cricket matches.
