@@ -24,7 +24,7 @@ ground_data <- ground_data %>%
 ground_data <- ground_data %>%
   mutate(Ground_Short = ifelse(is.na(Ground_Short), Ground, Ground_Short))
 
-# 1. Calculate derived metrics
+# Calculate derived metrics
 ground_analysis <- ground_data %>%
   mutate(
     Win_Rate = Won / Mat,
@@ -34,7 +34,7 @@ ground_analysis <- ground_data %>%
     Overs_per_Match = Balls_per_Match / 6
   )
 
-# 2. Rank grounds by different metrics
+# Rank grounds by different metrics
 top_grounds_runs <- ground_analysis %>%
   arrange(desc(Runs_per_Match)) %>%
   select(Ground_Short, Runs_per_Match) %>%
@@ -50,7 +50,7 @@ top_grounds_rpo <- ground_analysis %>%
   select(Ground_Short, RPO) %>%
   head(10)
 
-# 3. Visualizations
+# Visualizations
 
 # Sort grounds by RPO
 sorted_grounds <- ground_analysis %>%
@@ -107,7 +107,7 @@ p2 <- ggplot(second_half, aes(x = reorder(Ground_Short, Wickets_per_Match), y = 
 plot(p2)
 
 
-# 4. Print top grounds for different metrics
+# Print top grounds for different metrics
 print("Top 10 Grounds by Runs per Match:")
 print(top_grounds_runs)
 
@@ -117,7 +117,7 @@ print(top_grounds_wickets)
 print("Top 10 Grounds by Run Rate:")
 print(top_grounds_rpo)
 
-# 5. Summary statistics
+# Summary statistics
 summary_stats <- ground_analysis %>%
   summarise(
     Avg_Runs_per_Match = mean(Runs_per_Match),
