@@ -100,6 +100,7 @@ log_india_runs_ts <- log(india_runs_ts)
 
 diff_india_runs_ts <- diff(log_india_runs_ts)
 
+# KPSS test
 team_kpss_result <- kpss.test(diff_india_runs_ts)
 print(team_kpss_result)
 
@@ -121,7 +122,7 @@ AIC(team_model)
 BIC(team_model)
 
 
-# Trying Other Models using different p,d,q values
+# Trying other Models using different p,d,q values
 team_arima <- Arima(diff_india_runs_ts, c(4,0,2), xreg=regressors_matrix[-1,-1])
 AIC(team_arima)
 BIC(team_arima)
@@ -143,7 +144,7 @@ regressor_test <- regressors_matrix_test[, !(colnames(regressors_matrix_test) %i
 regressor_test <- regressor_test[61:65,]
 
 
-# Forecast the next few matches (next 5 matches)
+# Forecast values for the test data
 forecasted_scores <- forecast(team_arima, xreg = regressor_test[-1,-1], h = 4)
 
 
@@ -159,10 +160,10 @@ start_index <- start(forecast_index)[1]
 log_test_runs_ts <- log(team_test_data$Runs)
 diff_test_runs_ts <- diff(log_test_runs_ts)
 
-# Ensure bowl_test_data has the same time index
+# Ensure team_test_index has the same time index
 team_test_index <- seq(from = start_index, by = 1, length.out = length(diff_test_runs_ts))
 
-# Add the actual wkts line to the forecast plot
+# Add the actual score line to the forecast plot
 lines(team_test_index, diff_test_runs_ts, col="red")
 
 # Print forecasted scores
@@ -170,7 +171,7 @@ print(forecasted_scores)
 
 print(diff_test_runs_ts)
 
-#Checking residuals
+# Checking residuals
 modelResiduals <- residuals(team_arima)
 
 # Histogram and QQ-plot
