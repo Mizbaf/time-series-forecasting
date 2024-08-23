@@ -37,7 +37,7 @@ bowl_stats_filtered <- bowl_stats_filtered[, c("Wkts", "Overs", "Mdns", "Runs",
 # Omit NA values
 bowl_stats_filtered <- na.omit(bowl_stats_filtered)
 
-# Convert other potentially numeric columns to numeric, as appropriate
+# Convert other potentially numeric columns to numeric
 numeric_columns <- c("Overs", "Mdns", "Runs", "Wkts", "Econ", "Ave", "SR")
 bowl_stats_filtered[numeric_columns] <- lapply(bowl_stats_filtered[numeric_columns], 
                                                function(x) as.numeric(gsub("-", NA, x)))
@@ -187,7 +187,7 @@ extra_cols <- setdiff(test_cols_ball, train_cols_ball)
 # Remove extra columns from test data
 filtered_test_regressors <- combined_test_data_matrix[, !(colnames(combined_test_data_matrix) %in% extra_cols)]
 
-# Forecast runs for the next games
+# Forecast wickets for the test data
 forecasted_wkts <- forecast(fit,xreg=filtered_test_regressors[,-1], h = 10)
 print(forecasted_wkts)
 
@@ -202,10 +202,10 @@ forecast_index <- time(forecasted_wkts$mean)
 # Extract the correct starting index from the forecast index
 start_index <- start(forecast_index)[1]
 
-# Ensure bat_test_data has the same time index
+# Ensure bowl_test_index has the same time index
 bowl_test_index <- seq(from = start_index, by = 1, length.out = length(bowl_test_data$Runs))
 
-# Add the actual runs line to the forecast plot
+# Add the actual test data line to the forecast plot
 lines(bowl_test_index, bowl_test_data$Wkts, col="red")
 
 # MODEL EVALUATION
@@ -239,7 +239,7 @@ AIC(wkts_arima)
 BIC(wkts_arima)
 summary(wkts_arima)
 
-# Forecast runs for the next 10 games
+# Forecast wickets for the test data with new model
 forecasted_wkts <- forecast(wkts_arima, xreg=filtered_test_regressors[,-1], h=10)
 
 
@@ -258,7 +258,7 @@ start_index <- start(forecast_index)[1]
 # Ensure bowl_test_data has the same time index
 bowl_test_index <- seq(from = start_index, by = 1, length.out = length(bowl_test_data$Runs))
 
-# Add the actual wkts line to the forecast plot
+# Add the actual test data line to the forecast plot
 lines(bowl_test_index, bowl_test_data$Wkts, col="red")
 
 
@@ -324,7 +324,7 @@ model_regressors <- colnames(filtered_regressors_ball[,-1])
 # Identify missing regressors in the test data
 missing_regressors <- setdiff(model_regressors, colnames(forecast_regressors))
 
-# Add missing regressors to the test data, with default values (e.g., 0)
+# Add missing regressors to the test data(adding 0)
 forecast_regressors <- as.data.frame(forecast_regressors)
 
 for (regressor in missing_regressors) {
@@ -336,7 +336,7 @@ forecast_regressors <- forecast_regressors[, model_regressors, drop = FALSE]
 
 forecast_regressors <- as.matrix(forecast_regressors)
 
-# Forecast runs for the next games
+# Forecast and plot wickets for the next games
 future_forecasted_wkts <- forecast(fit, xreg=forecast_regressors, h=10)
 future_forecasted_wkts$mean <- round(future_forecasted_wkts$mean)
 print(future_forecasted_wkts)
